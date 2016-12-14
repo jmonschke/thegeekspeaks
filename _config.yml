@@ -29,3 +29,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+disqus:
+    shortname: thegeekspeaks
+
+google_analytics: UA-17571154-1
