@@ -13,7 +13,7 @@ The way to know for sure that your site is in need of this fix is that when you 
 
 If you look at the older version of the `nginx.conf.sample`, you will find the following setup under the section that configures the loading of the static files:
 
-```
+```nginx
 location /static/ {
     # Uncomment the following line in production mode
     # expires max;
@@ -48,7 +48,7 @@ location /static/ {
 
 One thing that becomes ovbious when you take a look at this and compare it to the `nginx.conf.sample` that Magento 2.1.3 installs, and you will see that there is a significant change after the section to uncomment for production mode.
 
-```
+```nginx
 location /static/ {
     # Uncomment the following line in production mode
     # expires max;
