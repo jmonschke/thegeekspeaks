@@ -24,13 +24,17 @@ github_username:  jmonschke
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
 
 disqus:
     shortname: thegeekspeaks
+
+paginate_path: "/page:num"
+paginate: 10
 
 google_analytics: UA-17571154-1
