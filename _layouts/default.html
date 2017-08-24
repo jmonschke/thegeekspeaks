@@ -4,6 +4,8 @@
   <body>
     {% include header.html %}
     <main class="page-content" aria-label="Content">
+      <div class="hero" style="background-image: url('/images/{{ page.image | default: site.image }}');">
+      </div>
       <div class="wrapper">
         {{ content }}
       </div>

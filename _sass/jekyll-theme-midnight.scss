@@ -126,6 +126,22 @@ strong {
   max-width: $page-width;
   margin:0 auto;
   padding: 0 30px;
+  position: relative;
+}
+
+.hero {
+  position: relative;
+  background: url(images/helpers.jpg) no-repeat bottom right fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-top: 60px;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 450px;
 }
 
 section img {
@@ -292,14 +308,13 @@ dt {
 }
 
 .home {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 
 article {
   max-width: $page-width;
   padding: 30px 0px 50px 0px;
   margin: 20px 0;
-  margin-top: 60px;
 
   .post-title {
     border: 0;

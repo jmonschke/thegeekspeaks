@@ -3,6 +3,7 @@ title: When Should I Use Magento 2 Helpers?
 layout: post
 date: '2017-02-06 21:05:23'
 author: Jeff Monschke
+image: helpers.jpg
 tags:
 - magento 2
 - helper

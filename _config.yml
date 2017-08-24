@@ -38,3 +38,5 @@ paginate_path: "/page:num"
 paginate: 10
 
 google_analytics: UA-17571154-1
+
+image: helpers.jpg
