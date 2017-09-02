@@ -408,7 +408,7 @@ article {
 }
 
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 768px) {
 
   .post-title {
     .credits {
@@ -428,18 +428,25 @@ article {
       }
     }
   }
+  .hero {
+    background-attachment: initial;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
-
-  .site-header {
-    margin-top: -20px;
+  ul {
+    padding: 0 0 0 20px;
   }
-
   article {
     margin-top: 40px;
   }
   nav {
     display: none;
+  }
+  .wrapper {
+    padding: 0 15px;
+  }
+  .hero {
+    height: 250px;
   }
 }
