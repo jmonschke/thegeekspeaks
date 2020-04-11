@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compass on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/compass/</link>
+    <description>Recent content in compass on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2015 01:44:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/compass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Write Your Own Compass Mixin</title>
+      <link>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</link>
+      <pubDate>Mon, 06 Apr 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</guid>
+      <description>As a developer working with CSS, one of the things that I find a bit troubling is the amount of style definitions that I have to repeat over and over to achieve the design I desire. One of the basic tenets of software development is to utilize the DRY principle, otherwise known as Don&amp;rsquo;t Repeat Yourself. Fortunately, when you implement Compass and SASS in your project to generate your CSS, you have a way to avoid copy-paste programming.</description>
+    </item>
+    
+    <item>
+      <title>Using The Ampersand With Compass</title>
+      <link>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</link>
+      <pubDate>Wed, 01 Apr 2015 00:41:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</guid>
+      <description>While much of working with Compass to generate the CSS for your site is straightforward, there are a few ways to use Compass the provide great power, but are not as easy to understand at first glance. This article discusses one such way, hopefully making it easier to understand.
+The operator that we will be looking at first is the &amp;amp; operator. The &amp;amp; as part of a selector in Compass allows you to take the entire selector string at a higher nesting level than the &amp;amp; currently resides upon, and replace the &amp;amp; with that selector string.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helper on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/helper/</link>
+    <description>Recent content in helper on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2017 21:05:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/helper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Should I Use Magento 2 Helpers?</title>
+      <link>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</link>
+      <pubDate>Mon, 06 Feb 2017 21:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</guid>
+      <description>One of the objects that developers familiar with Magento 1 will instantly recognize are helpers. When working with Magento 1, helpers proved to be a special type of object that looked similar in invocation to a singleton, but in reality it was more of a lazy way to share functionality between multiple locations. The main benefit to using a helper in Magento 1 is that it made it easier to access the __ function for translations and it was directly accessible from the template files .</description>
+    </item>
+    
+  </channel>
+</rss>

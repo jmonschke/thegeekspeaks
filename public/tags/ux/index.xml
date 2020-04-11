@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ux on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/ux/</link>
+    <description>Recent content in ux on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Apr 2014 01:50:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sticky Menus and Mega Drop Down Menus</title>
+      <link>https://thegeekspeaks.net/post/2014-04-03-sticky-menus-and-mega-drop-down-menus/</link>
+      <pubDate>Thu, 03 Apr 2014 01:50:50 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-03-sticky-menus-and-mega-drop-down-menus/</guid>
+      <description>There are time when UX best practices for the web don&amp;rsquo;t always provide the best experience for the users of a website. One example would be Sticky Menus and Mega Drop Down Menus.
+A Sticky Menu is a navigation bar that is stuck to the top of the screen when scrolling, usually with position:fixed;top:0; set on the menu itself. This ensures that no matter how far the user scrolls on the page, the site&amp;rsquo;s navigation is always available to the user without having to scroll to the top of the page.</description>
+    </item>
+    
+  </channel>
+</rss>

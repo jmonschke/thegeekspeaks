@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nodejs on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/nodejs/</link>
+    <description>Recent content in nodejs on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2015 01:34:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handling Callbacks with a Depth-First Tree in JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</link>
+      <pubDate>Mon, 20 Apr 2015 01:34:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</guid>
+      <description>One of the hardest things to do in JavaScript when working with complex data structures and a callback oriented platform is to know for sure when all of your callbacks have been fully executed. This issue came to light when working with a MongoDB datastore that was being used to store an infinitely-deep nested menu structure.
+This menu structure could be visualized as being a tree. In order to get the all of the needed menu items from this tree, a depth-first traversal of the tree was determined to be the easiest to track.</description>
+    </item>
+    
+  </channel>
+</rss>

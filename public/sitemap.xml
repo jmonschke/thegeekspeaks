@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/helper/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/magento/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/magento-2/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</loc>
+    <lastmod>2017-02-06T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</loc>
+    <lastmod>2017-02-03T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/woocommerce/</loc>
+    <lastmod>2017-02-03T21:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/magento2/</loc>
+    <lastmod>2017-01-25T20:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</loc>
+    <lastmod>2017-01-25T20:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/unittest/</loc>
+    <lastmod>2017-01-25T20:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/Docker/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/macOS/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/OSX/</loc>
+    <lastmod>2017-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2016-12-28-weird-errors-running-magento-2-unit-tests/</loc>
+    <lastmod>2016-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2016-12-21-magento-213-upgrade-static-files-not-loading/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/nginx/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2016-12-13-what-is-jekyll-and-where-have-i-been/</loc>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/agile/</loc>
+    <lastmod>2016-07-25T05:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/rant/</loc>
+    <lastmod>2016-07-25T05:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/scrum/</loc>
+    <lastmod>2016-07-25T05:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2016-07-25-the-scrum-daily-standup/</loc>
+    <lastmod>2016-07-25T05:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/web-development/</loc>
+    <lastmod>2016-07-25T05:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2016-02-20-how-do-you-handle-a-developer-that-doesnt-play-by-the-rules/</loc>
+    <lastmod>2016-02-20T04:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/management/</loc>
+    <lastmod>2016-02-20T04:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-04-21-scrum-sprint-planning-gone-wrong/</loc>
+    <lastmod>2015-04-21T00:59:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</loc>
+    <lastmod>2015-04-20T01:34:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/javascript/</loc>
+    <lastmod>2015-04-20T01:34:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/nodejs/</loc>
+    <lastmod>2015-04-20T01:34:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/design-patterns/</loc>
+    <lastmod>2015-04-07T01:39:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</loc>
+    <lastmod>2015-04-07T01:39:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/compass/</loc>
+    <lastmod>2015-04-06T01:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/css/</loc>
+    <lastmod>2015-04-06T01:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/html/</loc>
+    <lastmod>2015-04-06T01:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</loc>
+    <lastmod>2015-04-06T01:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/google/</loc>
+    <lastmod>2015-04-02T02:06:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/performance/</loc>
+    <lastmod>2015-04-02T02:06:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/security/</loc>
+    <lastmod>2015-04-02T02:06:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</loc>
+    <lastmod>2015-04-02T02:06:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/responsive-web-design/</loc>
+    <lastmod>2015-04-01T00:41:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</loc>
+    <lastmod>2015-04-01T00:41:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</loc>
+    <lastmod>2015-03-31T00:40:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/conversion/</loc>
+    <lastmod>2015-03-30T01:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</loc>
+    <lastmod>2015-03-30T01:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/php/</loc>
+    <lastmod>2015-03-30T01:46:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-27-2-ways-to-find-current-directory-in-php-without-regular-expressions/</loc>
+    <lastmod>2015-03-27T02:23:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</loc>
+    <lastmod>2015-03-26T03:38:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/python/</loc>
+    <lastmod>2015-03-26T03:38:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-25-verify-magento-user-access-to-admin-functionality/</loc>
+    <lastmod>2015-03-25T01:30:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/laravel/</loc>
+    <lastmod>2015-03-24T01:14:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-24-laravel-removed-the-quickstart-for-version-5/</loc>
+    <lastmod>2015-03-24T01:14:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/chrome/</loc>
+    <lastmod>2015-03-23T01:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</loc>
+    <lastmod>2015-03-23T01:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</loc>
+    <lastmod>2015-03-20T04:22:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/apache/</loc>
+    <lastmod>2015-03-19T01:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/microsoft/</loc>
+    <lastmod>2015-03-19T01:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</loc>
+    <lastmod>2015-03-19T01:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/windows-7/</loc>
+    <lastmod>2015-03-19T01:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/firefox/</loc>
+    <lastmod>2015-03-18T01:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/internet-explorer/</loc>
+    <lastmod>2015-03-18T01:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/testing/</loc>
+    <lastmod>2015-03-18T01:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</loc>
+    <lastmod>2015-03-18T01:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</loc>
+    <lastmod>2015-03-17T02:13:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</loc>
+    <lastmod>2015-03-16T02:40:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</loc>
+    <lastmod>2015-03-13T02:33:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/jquery/</loc>
+    <lastmod>2015-03-12T02:44:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</loc>
+    <lastmod>2015-03-12T02:44:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-11-firefox-36-has-a-massive-memory-leak/</loc>
+    <lastmod>2015-03-11T03:22:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-10-authenticate-magento-admin-users/</loc>
+    <lastmod>2015-03-10T01:23:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/interviews/</loc>
+    <lastmod>2015-03-09T03:39:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-09-the-top-sign-you-hired-the-wrong-developer/</loc>
+    <lastmod>2015-03-09T03:39:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-06-the-amazing-magento-configuration/</loc>
+    <lastmod>2015-03-06T03:17:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/xml/</loc>
+    <lastmod>2015-03-06T03:17:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-05-dont-be-a-dunce-save-your-orders/</loc>
+    <lastmod>2015-03-05T03:55:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-04-magentos-predispatch-observer/</loc>
+    <lastmod>2015-03-04T03:10:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-03-avoid-persistent-storage-maximum-size-reached-in-firefox/</loc>
+    <lastmod>2015-03-03T04:37:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/book-reviews/</loc>
+    <lastmod>2015-03-02T04:32:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-03-02-stop-wanting-and-start-choosing/</loc>
+    <lastmod>2015-03-02T04:32:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/authorize-net/</loc>
+    <lastmod>2015-01-09T04:14:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</loc>
+    <lastmod>2015-01-09T04:14:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</loc>
+    <lastmod>2015-01-08T03:30:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-07-javascript-can-have-an-interesting-interpretation-of-order/</loc>
+    <lastmod>2015-01-07T02:14:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-06-avoid-custom-mod_rewrite-rules-with-varnish/</loc>
+    <lastmod>2015-01-06T02:45:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/tips/</loc>
+    <lastmod>2015-01-06T02:45:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/varnish/</loc>
+    <lastmod>2015-01-06T02:45:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-05-lets-talk-about-equality/</loc>
+    <lastmod>2015-01-05T02:33:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</loc>
+    <lastmod>2015-01-04T04:20:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/bing/</loc>
+    <lastmod>2015-01-03T06:23:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</loc>
+    <lastmod>2015-01-03T06:23:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/bingbot/</loc>
+    <lastmod>2015-01-03T06:23:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/mysql/</loc>
+    <lastmod>2014-10-31T12:34:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/sql/</loc>
+    <lastmod>2014-10-31T12:34:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-10-31-top-3-reasons-to-avoid-magentos-getfirstitem/</loc>
+    <lastmod>2014-10-31T12:34:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</loc>
+    <lastmod>2014-10-23T01:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/safari/</loc>
+    <lastmod>2014-10-13T01:48:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</loc>
+    <lastmod>2014-10-13T01:48:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/apple/</loc>
+    <lastmod>2014-10-07T01:44:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</loc>
+    <lastmod>2014-10-07T01:44:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</loc>
+    <lastmod>2014-09-19T01:48:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/iphone-6/</loc>
+    <lastmod>2014-09-19T01:48:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/tmobile/</loc>
+    <lastmod>2014-09-19T01:48:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-09-18-t-mobile-buckles-under-iphone-6-preorders/</loc>
+    <lastmod>2014-09-18T03:44:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</loc>
+    <lastmod>2014-09-04T00:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-09-03-5-ways-to-keep-your-nude-pictures-secure/</loc>
+    <lastmod>2014-09-03T02:47:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</loc>
+    <lastmod>2014-09-02T00:53:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/visual-studio/</loc>
+    <lastmod>2014-09-02T00:53:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/blog/</loc>
+    <lastmod>2014-09-01T01:12:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/disqus/</loc>
+    <lastmod>2014-09-01T01:12:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/ghost-tag/</loc>
+    <lastmod>2014-09-01T01:12:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-09-01-quality-comments-welcome/</loc>
+    <lastmod>2014-09-01T01:12:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</loc>
+    <lastmod>2014-08-21T01:16:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-08-18-php-serializeunserialize-is-faster-than-json_encodejson_decode/</loc>
+    <lastmod>2014-08-18T01:18:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</loc>
+    <lastmod>2014-08-07T02:36:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-29-hackers-exploiting-gullible-magento-site-administrators/</loc>
+    <lastmod>2014-07-29T01:15:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/adblock-plus/</loc>
+    <lastmod>2014-07-28T01:48:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-28-links-not-working-check-adblock-plus/</loc>
+    <lastmod>2014-07-28T01:48:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/sitecatalyst/</loc>
+    <lastmod>2014-07-28T01:48:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</loc>
+    <lastmod>2014-07-16T01:42:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-15-the-easiest-way-to-create-a-solution-that-works/</loc>
+    <lastmod>2014-07-15T01:59:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-14-performance-testing-with-siege/</loc>
+    <lastmod>2014-07-14T01:35:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-11-estimating-software-development-projects-is-hard/</loc>
+    <lastmod>2014-07-11T02:10:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-10-ignore-whitespace-not-available-in-bitbucket-pull-requests/</loc>
+    <lastmod>2014-07-10T03:29:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</loc>
+    <lastmod>2014-07-08T02:34:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/teams/</loc>
+    <lastmod>2014-07-08T02:34:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</loc>
+    <lastmod>2014-07-07T01:38:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</loc>
+    <lastmod>2014-07-03T03:39:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</loc>
+    <lastmod>2014-06-23T01:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-18-orphaned-attribute-data-in-magento/</loc>
+    <lastmod>2014-06-18T01:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-12-code-style-guides-consistency-is-king/</loc>
+    <lastmod>2014-06-12T02:13:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</loc>
+    <lastmod>2014-06-11T02:11:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</loc>
+    <lastmod>2014-06-10T01:49:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-04-5-ways-to-do-responsive-web-design-poorly/</loc>
+    <lastmod>2014-06-04T01:06:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</loc>
+    <lastmod>2014-06-02T02:07:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-23-avoid-sitecatalysts-useforcedlinktracking-and-target_blank/</loc>
+    <lastmod>2014-05-23T16:13:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</loc>
+    <lastmod>2014-05-21T01:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</loc>
+    <lastmod>2014-05-19T14:21:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</loc>
+    <lastmod>2014-05-14T02:09:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</loc>
+    <lastmod>2014-05-12T17:25:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</loc>
+    <lastmod>2014-05-08T02:19:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/sql-server/</loc>
+    <lastmod>2014-05-08T02:19:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</loc>
+    <lastmod>2014-05-07T01:49:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-06-unintended-consequences-with-magento-observers-on-sales-orders/</loc>
+    <lastmod>2014-05-06T01:59:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-02-magento-version-2-is-it-just-microsoft-windows-longhorn-aka-vista/</loc>
+    <lastmod>2014-05-02T02:10:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/windows-vista/</loc>
+    <lastmod>2014-05-02T02:10:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</loc>
+    <lastmod>2014-05-01T03:42:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</loc>
+    <lastmod>2014-04-30T01:59:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</loc>
+    <lastmod>2014-04-29T03:58:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</loc>
+    <lastmod>2014-04-28T01:23:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-25-optimizing-website-load-time/</loc>
+    <lastmod>2014-04-25T02:26:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-24-optimize-magento-time-to-first-byte/</loc>
+    <lastmod>2014-04-24T00:41:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/cache/</loc>
+    <lastmod>2014-04-23T02:39:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-23-magento-appending-__sid-to-urls/</loc>
+    <lastmod>2014-04-23T02:39:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-18-magento-adminhtml-and-relative-links-to-static-resources/</loc>
+    <lastmod>2014-04-18T02:34:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-17-mysql-deadlocks-with-magento/</loc>
+    <lastmod>2014-04-17T04:32:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-16-top-5-ways-to-make-a-developer-your-enemy/</loc>
+    <lastmod>2014-04-16T03:50:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</loc>
+    <lastmod>2014-04-14T21:43:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</loc>
+    <lastmod>2014-04-11T02:20:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</loc>
+    <lastmod>2014-04-10T00:40:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</loc>
+    <lastmod>2014-04-09T01:35:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/genesis-framework/</loc>
+    <lastmod>2014-04-08T01:38:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/wordpress/</loc>
+    <lastmod>2014-04-08T01:38:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-08-wordpress-and-the-genesis-framework/</loc>
+    <lastmod>2014-04-08T01:38:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-06-saving-products-in-magento-deletes-tier-pricing/</loc>
+    <lastmod>2014-04-06T21:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/tier-pricing/</loc>
+    <lastmod>2014-04-06T21:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-04-creating-a-best-sellers-category-with-magento/</loc>
+    <lastmod>2014-04-04T02:06:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-03-sticky-menus-and-mega-drop-down-menus/</loc>
+    <lastmod>2014-04-03T01:50:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/tags/ux/</loc>
+    <lastmod>2014-04-03T01:50:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-02-can-legacy-internet-explorer-go-away-already/</loc>
+    <lastmod>2014-04-02T00:56:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</loc>
+    <lastmod>2014-04-01T02:16:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-31-javascript-templating/</loc>
+    <lastmod>2014-03-31T01:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-30-login-problems-with-magento-and-varnish/</loc>
+    <lastmod>2014-03-30T02:30:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-29-301-redirecting-in-varnish/</loc>
+    <lastmod>2014-03-29T02:42:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-28-launching-a-redesign-of-a-website/</loc>
+    <lastmod>2014-03-28T02:00:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</loc>
+    <lastmod>2014-03-27T01:45:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-26-magento-frontname-naming-and-sslhttps/</loc>
+    <lastmod>2014-03-26T03:03:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-25-magento-cache-with-cache-disabled/</loc>
+    <lastmod>2014-03-25T02:02:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/post/2014-03-24-welcome-to-the-geek-speaks/</loc>
+    <lastmod>2014-03-24T00:26:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thegeekspeaks.net/categories/</loc>
+  </url>
+  
+</urlset>

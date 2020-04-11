@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>responsive-web-design on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/responsive-web-design/</link>
+    <description>Recent content in responsive-web-design on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2015 00:41:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/responsive-web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using The Ampersand With Compass</title>
+      <link>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</link>
+      <pubDate>Wed, 01 Apr 2015 00:41:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</guid>
+      <description>While much of working with Compass to generate the CSS for your site is straightforward, there are a few ways to use Compass the provide great power, but are not as easy to understand at first glance. This article discusses one such way, hopefully making it easier to understand.
+The operator that we will be looking at first is the &amp;amp; operator. The &amp;amp; as part of a selector in Compass allows you to take the entire selector string at a higher nesting level than the &amp;amp; currently resides upon, and replace the &amp;amp; with that selector string.</description>
+    </item>
+    
+    <item>
+      <title>Compass Makes Writing CSS Fun Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</link>
+      <pubDate>Tue, 31 Mar 2015 00:40:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</guid>
+      <description>One of the things that has always annoyed me about web development is that writing CSS generally becomes a task that has a major lack of the features that you would expect in a programming language, even one as simple as JavaScript. These features that would be wonderful to have when working with CSS are the ability to use variables to define a set of basic colors that are in use across the site in one place, and then use the variable name throughout the stylesheet.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Wide To Narrow</title>
+      <link>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</link>
+      <pubDate>Mon, 30 Mar 2015 01:46:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</guid>
+      <description>If you consider the path that a user takes through your website from landing page to successful conversion, you can think of the number of users that make it to each point along the way to a successful conversion as similarly shaped to that of a funnel. In a typical setup, you may have a very small percentage of your users make it to a successful conversion, but there are several areas along the way that either improve the chances the user will convert or decrease those chances.</description>
+    </item>
+    
+    <item>
+      <title>Google To Begin Rewarding Mobile-Friendly Websites</title>
+      <link>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</link>
+      <pubDate>Fri, 20 Mar 2015 04:22:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</guid>
+      <description>Google recently announced that beginning April 21, 2015, they would start slightly rewarding websites that are mobile-friendly at the expense of sites that are not. There are several things that Google looks at to determine whether or not a site is easy for a user on a mobile device to view and navigate. Some of the things that Google looks for include the following:
+ Fonts that are big enough to be legible Users don&amp;rsquo;t have to scroll left and right to see content Links are big enough and have enough space around them to be clickable with a touch of a finger.</description>
+    </item>
+    
+    <item>
+      <title>When Is Enough CSS Enough?</title>
+      <link>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</link>
+      <pubDate>Tue, 17 Mar 2015 02:13:04 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</guid>
+      <description>One of the major pushes in web development today is to try to do as much of the styling of a website as is possible from within the CSS of the site. The idea behind this is that when you do so, you remove styling responsibilities from your JavaScript and HTML content, resulting in a much better separation of concerns. The other aspect of this is that CSS styling is typically handled in a more native fashion in the browser as compared to what you can accomplish via Javascript.</description>
+    </item>
+    
+    <item>
+      <title>The Easiest Way to Create A Solution That Works</title>
+      <link>https://thegeekspeaks.net/post/2014-07-15-the-easiest-way-to-create-a-solution-that-works/</link>
+      <pubDate>Tue, 15 Jul 2014 01:59:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-15-the-easiest-way-to-create-a-solution-that-works/</guid>
+      <description>The easiest way to create a solution that works&amp;hellip;is to do it right the first time. Yes, this is a bit of a cop-out, but it turns out to be an important factor to keep in mind when you are tempted to come up with a quick and dirty solution for a problem that does not follow established best practices and is likely to have code quality issues later.
+I have run across many sections of code that I or other developers have written in the past that we thought were &amp;ldquo;good enough&amp;rdquo; at the time it was written, yet, I was revisiting the code because we discovered a bug in it.</description>
+    </item>
+    
+    <item>
+      <title>Estimating Software Development Projects is Hard</title>
+      <link>https://thegeekspeaks.net/post/2014-07-11-estimating-software-development-projects-is-hard/</link>
+      <pubDate>Fri, 11 Jul 2014 02:10:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-11-estimating-software-development-projects-is-hard/</guid>
+      <description>As a software developer, working with non-technical management and end users to define a deadline for when a project will be ready to use or how long it will take from start to end of a project is an extremely complex task. Unfortunately, the non-technical audience thinks that it should be simple to give some sort of estimation on the fly without detailed analysis of the project and what it involves, as it seems simple for them to estimate tasks that are like ones they have done before.</description>
+    </item>
+    
+    <item>
+      <title>AddThis Can Cause Your Site To Not Load</title>
+      <link>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</link>
+      <pubDate>Mon, 07 Jul 2014 01:38:09 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</guid>
+      <description>Over the last few days, I have run across quite a few websites that seem to never finish loading. After waiting for 20 seconds or more, I give up, realizing that whatever content was on the site wasn&amp;rsquo;t worth it anymore for me to stare at a blank white browser until it loaded however much longer. Unfortunately for those websites, they are losing traffic that they will never get back.</description>
+    </item>
+    
+    <item>
+      <title>== and === in JavaScript and HTML Input Elements</title>
+      <link>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</link>
+      <pubDate>Thu, 03 Jul 2014 03:39:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</guid>
+      <description>If you read any current information about best practices in JavaScript, you will typically find the following advice somewhere in the list of things to do.
+ Always use === and !== while avoiding == and !=
+ While I will never argue against this advice, there are a few things that a developer shoule realize when using === and !== instead of == and !=.
+ === and !== first do a check of the data type of the two objects you are comparing.</description>
+    </item>
+    
+    <item>
+      <title>Always URL Encode your Cookies</title>
+      <link>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</link>
+      <pubDate>Mon, 23 Jun 2014 01:47:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</guid>
+      <description>One of the things that you tend to forget about when dealing with websites that typically only cater to English-speaking visitors is how to properly deal with Unicode throughout the site. It turns out that some browsers handle Unicode support in different sections of the browser differently.
+For instance, it turns out that when you want to store Unicode data as the value in a cookie, your success may vary across browsers.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways To Do Responsive Web Design Poorly</title>
+      <link>https://thegeekspeaks.net/post/2014-06-04-5-ways-to-do-responsive-web-design-poorly/</link>
+      <pubDate>Wed, 04 Jun 2014 01:06:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-04-5-ways-to-do-responsive-web-design-poorly/</guid>
+      <description>Responsive Web Design is a website design methodology that seeks to adapt the way a website is displayed depending on the capabilities of the device that is displaying the site. Frequently Responsive Web Design is used solely to adapt to the screen resolution of various devices, but it has other applications that are yet to have full browser support, such as delivering smaller graphics automatically for low-bandwidth connections, etc. As with everything, some people do it well, while others, well, they do it poorly.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images with Picturefill 2.0</title>
+      <link>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</link>
+      <pubDate>Wed, 14 May 2014 02:09:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</guid>
+      <description>Responsive Web Design seems to be the way that the majority of websites will be developed in the near future. For a while, everyone was creating a separate website that catered to mobile devices in addition to the main website that desktop browsers were able to access. Web Developers and UX Designers quickly discovered that this was a less than ideal approach as it required maintaining two separate websites, and the mobile website tended to remove data that was visible on the desktop version of the site.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Web Development Is the New Internet Explorer 6</title>
+      <link>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</link>
+      <pubDate>Mon, 12 May 2014 17:25:30 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</guid>
+      <description>Developing a website that works well across devices and browsers is an excersize in playing Whack-A-Mole. Once you get one browser working on a desktop browser, you go to the next browser and find that not everything works the same way. In 2014, it seems that there aren&amp;rsquo;t that many differences in functionality between desktop browsers, but that all changes once you start making a responsive website that must handle mobile devices as well as it does desktop browsers.</description>
+    </item>
+    
+    <item>
+      <title>Launching a Redesign of a Website</title>
+      <link>https://thegeekspeaks.net/post/2014-03-28-launching-a-redesign-of-a-website/</link>
+      <pubDate>Fri, 28 Mar 2014 02:00:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-28-launching-a-redesign-of-a-website/</guid>
+      <description>Over the last few months, I have been working on a major redesign of an existing Magento website. One of the major goals of the redesign was to take a legacy desktop-only website and upgrade it to take full advantage of Responsive Web Design so that customers could equally utilize mobile and desktop devices to browse and purchase products.
+For a site that had seen only minor updates over the last 5 years, this redesign represented a major change visually and navigationally from the previous site.</description>
+    </item>
+    
+  </channel>
+</rss>

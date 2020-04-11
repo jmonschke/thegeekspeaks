@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/python/</link>
+    <description>Recent content in python on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2015 03:38:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Micro-Optimization Provides Useless Results</title>
+      <link>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</link>
+      <pubDate>Thu, 26 Mar 2015 03:38:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</guid>
+      <description>One of the things to remember about performance optimizations performed in isolation is that their results are rarely representative of real-world performance results. This article outlines the &amp;ldquo;findings&amp;rdquo; of the students at a couple of Canadian universities, and comes to the conclusion that string concatenation in memory is slower than writing the same total number of bytes to disk, one after the other.
+ String concatenation is a slow and CPU-heavy operation.</description>
+    </item>
+    
+    <item>
+      <title>Run Multiple Python mod_wsgi Websites With Apache On Windows</title>
+      <link>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</link>
+      <pubDate>Thu, 19 Mar 2015 01:25:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</guid>
+      <description>Yes, this sounds completely crazy, but there is a semi-valid need to do this, unfortunately. However, when you need to run multiple Python websites on Apache on Windows via mod_wsgi, it quickly becomes apparent that using the typical &amp;lt;VirtualHost&amp;gt; configuration options do not work as expected.
+When you try to do it with a &amp;lt;VirtualHost&amp;gt; configuration, you will be unable to setup a separate WSGIPythonPath configuration setting per virtual host, as that configuration directive is not allowed within a &amp;lt;VirtualHost&amp;gt; node.</description>
+    </item>
+    
+    <item>
+      <title>Google Code Shutting Down</title>
+      <link>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</link>
+      <pubDate>Mon, 16 Mar 2015 02:40:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</guid>
+      <description>Google just recently announced that they are going to begin the process of shutting down their Google Code project hosting service. In the blog post announcing that they were shuttering the service, they let it slip that even Google had quit using Google Code for their project hosting, instead transitioning thousands of their projects to GitHub. Google seemingly blames the fact that GitHub and BitBucket handle project hosting better than Google does as the main reason that they are discontinuing the service.</description>
+    </item>
+    
+    <item>
+      <title>Unexpected Results with SQL Server and Python pyodbc</title>
+      <link>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</link>
+      <pubDate>Thu, 10 Apr 2014 00:40:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</guid>
+      <description>Using the Microsoft SQL Server Management Studio (SSMS) with SQL Server hides many of the API complications that can sometimes arise when working with SQL Server. One specific example would be when using Python on Windows with the pyodbc driver. If you have an update statement that performs a simple update to a status column and a datetime column, you can have some unexpected results.
+Lets say that the table you are running the update against has a before update trigger and an after update trigger configured on it.</description>
+    </item>
+    
+    <item>
+      <title>SQL Server Transaction Log Exponential Growth</title>
+      <link>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</link>
+      <pubDate>Wed, 09 Apr 2014 01:35:42 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</guid>
+      <description>There are few things more frustrating than seemingly random issues that crop up in software when configuration changes occur. One such occurrence is when you migrate your databases from Microsoft SQL Server 2012 Standard Edition to Microsoft SQL Server 2012 Enterprise Edition with High Availability and the transaction log suddenly begins to experience exponential growth without ceasing.
+It turns out that when using Python and pyodbc on Windows to access SQL Server, there can be some unpredictable results.</description>
+    </item>
+    
+  </channel>
+</rss>

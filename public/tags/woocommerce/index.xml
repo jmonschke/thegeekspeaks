@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>woocommerce on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/woocommerce/</link>
+    <description>Recent content in woocommerce on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Feb 2017 21:05:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/woocommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Magento 2 Learning Curve</title>
+      <link>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</link>
+      <pubDate>Fri, 03 Feb 2017 21:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</guid>
+      <description>The learning curve for various products and platforms tends to vary greatly depending on the complexity of the system you are learning. For example, people that understand how to use the internet and communicate online via email or Facebook are generally able to figure out how to work with Twitter without much of an issue. On the other hand, when you are looking at the learning curve for designing airplanes that are able to carry people, it should be much more difficult to understand how to start as compared to starting to use Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

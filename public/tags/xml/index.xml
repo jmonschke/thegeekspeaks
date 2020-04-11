@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xml on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/xml/</link>
+    <description>Recent content in xml on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2015 03:17:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Amazing Magento Configuration</title>
+      <link>https://thegeekspeaks.net/post/2015-03-06-the-amazing-magento-configuration/</link>
+      <pubDate>Fri, 06 Mar 2015 03:17:46 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-06-the-amazing-magento-configuration/</guid>
+      <description>At the heart of every piece of PHP in Magento is the XML configuration files that tell core Magento code where to find functions and what to do with them. It seems to be the biggest hurdle that most developers face when they begin developing with Magento.
+When going through a bit of code recently, I discovered something in the configuration that looks like it should have never worked, but amazingly enough, has worked without issue the entire time it has been in place.</description>
+    </item>
+    
+  </channel>
+</rss>

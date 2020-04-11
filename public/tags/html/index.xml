@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/html/</link>
+    <description>Recent content in html on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2015 01:44:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Write Your Own Compass Mixin</title>
+      <link>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</link>
+      <pubDate>Mon, 06 Apr 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</guid>
+      <description>As a developer working with CSS, one of the things that I find a bit troubling is the amount of style definitions that I have to repeat over and over to achieve the design I desire. One of the basic tenets of software development is to utilize the DRY principle, otherwise known as Don&amp;rsquo;t Repeat Yourself. Fortunately, when you implement Compass and SASS in your project to generate your CSS, you have a way to avoid copy-paste programming.</description>
+    </item>
+    
+    <item>
+      <title>Using The Ampersand With Compass</title>
+      <link>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</link>
+      <pubDate>Wed, 01 Apr 2015 00:41:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</guid>
+      <description>While much of working with Compass to generate the CSS for your site is straightforward, there are a few ways to use Compass the provide great power, but are not as easy to understand at first glance. This article discusses one such way, hopefully making it easier to understand.
+The operator that we will be looking at first is the &amp;amp; operator. The &amp;amp; as part of a selector in Compass allows you to take the entire selector string at a higher nesting level than the &amp;amp; currently resides upon, and replace the &amp;amp; with that selector string.</description>
+    </item>
+    
+    <item>
+      <title>Compass Makes Writing CSS Fun Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</link>
+      <pubDate>Tue, 31 Mar 2015 00:40:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</guid>
+      <description>One of the things that has always annoyed me about web development is that writing CSS generally becomes a task that has a major lack of the features that you would expect in a programming language, even one as simple as JavaScript. These features that would be wonderful to have when working with CSS are the ability to use variables to define a set of basic colors that are in use across the site in one place, and then use the variable name throughout the stylesheet.</description>
+    </item>
+    
+    <item>
+      <title>When Is Enough CSS Enough?</title>
+      <link>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</link>
+      <pubDate>Tue, 17 Mar 2015 02:13:04 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</guid>
+      <description>One of the major pushes in web development today is to try to do as much of the styling of a website as is possible from within the CSS of the site. The idea behind this is that when you do so, you remove styling responsibilities from your JavaScript and HTML content, resulting in a much better separation of concerns. The other aspect of this is that CSS styling is typically handled in a more native fashion in the browser as compared to what you can accomplish via Javascript.</description>
+    </item>
+    
+    <item>
+      <title>LocalStorage and Safari Weirdness</title>
+      <link>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</link>
+      <pubDate>Tue, 07 Oct 2014 01:44:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</guid>
+      <description>One of the technologies that has been intriguing to me for a while has been LocalStorage on the web browser. One of my first adventures into using persistent storage other than cookies on a web browser was the short-lived HTML 5 standard of the webSQL database. It turns out that it was simply a SQL Lite database that was accessible via JavaScript in all the WebKit browsers as well as Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Magento Adminhtml and Relative Links to Static Resources</title>
+      <link>https://thegeekspeaks.net/post/2014-04-18-magento-adminhtml-and-relative-links-to-static-resources/</link>
+      <pubDate>Fri, 18 Apr 2014 02:34:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-18-magento-adminhtml-and-relative-links-to-static-resources/</guid>
+      <description>Relative links in URLs allow you to only specify the path to an resource that is in the same or subfolder of the current folder. Lets say the current page you are on is http://example.com/test/ and you want to reference an image at http://example.com/test/image.jpg. You could put the full http://example.com/test/image.jpg in the src attribute of the img tag, or you could use just image.jpg instead. This works well when you are not sure what the directory path is the parent directory of your code.</description>
+    </item>
+    
+  </channel>
+</rss>

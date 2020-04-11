@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disqus on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/disqus/</link>
+    <description>Recent content in disqus on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2014 01:12:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/disqus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quality Comments Welcome</title>
+      <link>https://thegeekspeaks.net/post/2014-09-01-quality-comments-welcome/</link>
+      <pubDate>Mon, 01 Sep 2014 01:12:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-01-quality-comments-welcome/</guid>
+      <description>One of the things, among many, that has been missing from this blog from its beginning has been the inability for users to post comments to articles in the blog. Ghost was created to allow bloggers and writers to focus directly on writing with as few distractions as possible. This is in stark contrast to the way WordPress was created where anyone running a site had to be immersed in the functionality of WordPress themes and extensions to have a fully-functional website.</description>
+    </item>
+    
+  </channel>
+</rss>

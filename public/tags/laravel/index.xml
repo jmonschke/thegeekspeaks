@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laravel on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/laravel/</link>
+    <description>Recent content in laravel on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2015 01:14:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/laravel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laravel Removed The QuickStart For Version 5</title>
+      <link>https://thegeekspeaks.net/post/2015-03-24-laravel-removed-the-quickstart-for-version-5/</link>
+      <pubDate>Tue, 24 Mar 2015 01:14:22 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-24-laravel-removed-the-quickstart-for-version-5/</guid>
+      <description>To start out, I want to be clear that what follows should not be interpreted to be a criticism of the software framework that those that work on Laravel publish, nor an indictment of open-source software as a whole. Rather, it is a look at how some projects, open or closed source make it harder than it should be for new users/developers to utilize their terrific products.
+ It seems experts conveniently &amp;ldquo;forget&amp;rdquo; the tips and tricks and tribulations it takes to learn a new technology, covering it all with, &amp;ldquo;It&amp;rsquo;s just so easy&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

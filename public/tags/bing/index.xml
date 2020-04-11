@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bing on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/bing/</link>
+    <description>Recent content in bing on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2015 06:23:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/bing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bing ignores robots.txt</title>
+      <link>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</link>
+      <pubDate>Sat, 03 Jan 2015 06:23:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</guid>
+      <description>One of the long-standing conventions on the web is that automated search engine crawlers should follow a set of rules about what pages they should and should not visit and index. For many crawlers or bots, all you have to do is properly setup your robots.txt file, and viola, you control what the bot will and will not visit. The GoogleBot tends to behave well according to what is in the robots.</description>
+    </item>
+    
+  </channel>
+</rss>

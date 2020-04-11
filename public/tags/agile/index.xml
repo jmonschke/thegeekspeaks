@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agile on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/agile/</link>
+    <description>Recent content in agile on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2016 05:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Scrum Daily Standup</title>
+      <link>https://thegeekspeaks.net/post/2016-07-25-the-scrum-daily-standup/</link>
+      <pubDate>Mon, 25 Jul 2016 05:08:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-07-25-the-scrum-daily-standup/</guid>
+      <description>One of the hallmarks of the Scrum method of agile software development is a daily meeting, or &amp;ldquo;standup&amp;rdquo;. The purpose of the Scrum Daily Standup is to make sure the Scrum team is aware of what tasks the other members of the team are working on as well as asking for and offering assistance to other members of the team as needed. The Scrum Daily Standup is NOT a meeting to gather the project&amp;rsquo;s status.</description>
+    </item>
+    
+    <item>
+      <title>SCRUM Sprint Planning Gone Wrong</title>
+      <link>https://thegeekspeaks.net/post/2015-04-21-scrum-sprint-planning-gone-wrong/</link>
+      <pubDate>Tue, 21 Apr 2015 00:59:52 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-21-scrum-sprint-planning-gone-wrong/</guid>
+      <description>One of the things that is a hallmark of the SCRUM method of Agile development is that you have a unit of time during which you commit to accomplishing some amount of work before that unit of time has elapsed. In order to commit to how much work should be accomplished during the &amp;ldquo;sprint&amp;rdquo;, all members of the team meet at the beginning of each sprint for a sprint planning meeting.</description>
+    </item>
+    
+    <item>
+      <title>Do you have too many big balls?</title>
+      <link>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</link>
+      <pubDate>Thu, 23 Oct 2014 01:43:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</guid>
+      <description>Managing a software development team can be a difficult task when everything is moving along exactly as expected. When you add in the paradigm shift of Agile Software Development with Scrum, management doesn&amp;rsquo;t always have the same insights into what makes up an efficient use of a development team&amp;rsquo;s time. For the rest of this post, lets assume that we are working with a 2 week sprint, with the first day half-used for sprint planning, and the last day half used for the sprint retrospective.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Do SCRUM Poorly</title>
+      <link>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</link>
+      <pubDate>Tue, 10 Jun 2014 01:49:43 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</guid>
+      <description>As a developer that frequently leads projects and operates in various leadership roles depending on the current project lineup, the Agile development methodology is a welcome change from the Waterfall and Software Development Life Cycle approaches to software development. SCRUM is the specific type of Agile development that I have participated in at a few different workplaces, and it seems to work well if implemented properly. However, there are several ways to make a SCRUM development team perform more poorly than it ought.</description>
+    </item>
+    
+  </channel>
+</rss>

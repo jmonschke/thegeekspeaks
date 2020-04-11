@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unittest on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/unittest/</link>
+    <description>Recent content in unittest on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2017 20:05:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/unittest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Best Way to Learn Magento 2</title>
+      <link>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</link>
+      <pubDate>Wed, 25 Jan 2017 20:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</guid>
+      <description>The very best way that I have found to figure out how to develop with Magento 2 is to write unit tests for a module. It not only requires you to figure out how to work with phpunit, but to also look at the existing codebase for examples of how the Magento 2 team works with the same objects and handles the same kinds of tasks. Once I wrote a full set of unit tests for my first Magento 2 module, I felt that I had a much better grasp of the workings of Magento 2 than I did before I started writing the unit tests.</description>
+    </item>
+    
+  </channel>
+</rss>

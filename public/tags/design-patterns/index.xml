@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design-patterns on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/design-patterns/</link>
+    <description>Recent content in design-patterns on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2015 01:39:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t Use MongoDB For The Wrong Things</title>
+      <link>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</link>
+      <pubDate>Tue, 07 Apr 2015 01:39:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</guid>
+      <description>The early phases of a greenfield project always seem to conjure up grand ideas of how to use the hottest new technologies to accomplish your goals. Many times, these grandiose plans give way to a more level-headed design discussion where more realistic technologies are adopted. However, there are a few times where the developer with the idea to use the hottest new technology is the one in charge, and ends up getting his way.</description>
+    </item>
+    
+    <item>
+      <title>Write Software for People, Not Computers</title>
+      <link>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</link>
+      <pubDate>Wed, 16 Jul 2014 01:42:55 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</guid>
+      <description>Throughout a normal day, I end up reading a lot of information about current issues in technology, and today is no different. There was a debate raging about whether or not high-level math was required for programmers that was sparked by this article by Sarah Mei Programming is not math. While it is an interesting topic, and, surprisingly, I mostly agree with Sarah on this issue, that is not the most important portion of her post.</description>
+    </item>
+    
+    <item>
+      <title>Always Use Automated Integration Testing</title>
+      <link>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</link>
+      <pubDate>Tue, 08 Jul 2014 02:34:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</guid>
+      <description>QA or Quality Assurance of a software project is often the area of software development that is most neglected. Typically developers avoid software testing like their lives depended on it. While a basic level of testing is required for a single scenario to validate that your code &amp;ldquo;works&amp;rdquo;, the level of testing that is required to ensure that all users have a good user experience across all targeted platforms is something that a developer seems to think is beneath them.</description>
+    </item>
+    
+    <item>
+      <title>Code Style Guides - Consistency is King</title>
+      <link>https://thegeekspeaks.net/post/2014-06-12-code-style-guides-consistency-is-king/</link>
+      <pubDate>Thu, 12 Jun 2014 02:13:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-12-code-style-guides-consistency-is-king/</guid>
+      <description>There have been countless flame wars online about the details of the guidelines that appear in various Code Style Guides. Some of the most famous are the tabs versus spaces arguments, whether or not to put curly brackets {} each on their own line, whether you should even use the curly brackets {} for one line actions in if statements.
+I am here to say that the only thing that matters in the style of your source code, other than syntactically correct code, is consistency.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development Failure</title>
+      <link>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</link>
+      <pubDate>Wed, 11 Jun 2014 02:11:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</guid>
+      <description>In the past, I have argued that devensive development is a useful tool to ensure unexpected exceptions are not introduced into a piece of software as well as ensuring that the error conditions are handled in an appropriate manner. Unfortunately, if defensive development is implemented poorly, it achieves none of its goals and can cause errors and exceptions to occur. One example that I found while reviewing some code recently is below:</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development - Fail Fast or Go Home</title>
+      <link>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</link>
+      <pubDate>Mon, 02 Jun 2014 02:07:32 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</guid>
+      <description>Defensive Development is a programming practice that is frequently misunderstood, but is nevertheless a critical practice to follow when working in many environments. I have seen articles written that argue that defensive development simply causes nonsensical null checks to be written, and as a result of seeing people writing bad code defensively, argues that no one should practice defensive development. There are other articles that, like many things in software development, argue that you should always use defensive development for everything.</description>
+    </item>
+    
+    <item>
+      <title>Always Namespace Variable Names in JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</link>
+      <pubDate>Wed, 30 Apr 2014 01:59:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</guid>
+      <description>After running into a few issues with variable naming collisions over the past few days, it drives home how much we all should be namespacing our variable names in JavaScript. When writing JavaScript code that is only in use on your own website, you should still always namespace your variables. If you are writting a JavaScript library that will be in use on any website a user puts it on, namespacing your variable names is a minimum requirement.</description>
+    </item>
+    
+  </channel>
+</rss>

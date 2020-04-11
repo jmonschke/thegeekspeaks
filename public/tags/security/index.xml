@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/security/</link>
+    <description>Recent content in security on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2015 02:06:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social-Buttons.Com Spams Google Analytics</title>
+      <link>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</link>
+      <pubDate>Thu, 02 Apr 2015 02:06:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</guid>
+      <description>Typically when you see traffic in Google Analytics, you can be sure that it is legitimate traffic to your website. However, there are a few known spammers out there that successfully spam Google Analytics tracking codes with bogus visits, hoping that the Analytics users visit the site that is supposedly &amp;ldquo;referring&amp;rdquo; traffic. One such domain that is being used for this is Social-Buttons.com.
+I have just begun to see traffic in Google Analytics from Social-Buttons.</description>
+    </item>
+    
+    <item>
+      <title>Never Explicitly Trust Software Because It Is Open-Source</title>
+      <link>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</link>
+      <pubDate>Fri, 13 Mar 2015 02:33:22 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</guid>
+      <description>One of the major ideas behind open source projects is that allowing anyone that wants to view the source code of a project to be able to do so should make bugs and security weaknesses easy to find. While this did not work so well with OpenSSL and its various bugs that have been exposed recently, I do have an example where it worked extremely well.
+Magento is an eCommerce platform that has two separate editions.</description>
+    </item>
+    
+    <item>
+      <title>Authorize.Net Directpost is Overly Complex</title>
+      <link>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</link>
+      <pubDate>Fri, 09 Jan 2015 04:14:16 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</guid>
+      <description>One of the necessary evils that every ecommerce website that wants to accept credit card transactions must deal with is some sort of payment processing company. It just so happens that Authorize.net is one of the largest payment processors around, and they allow you to choose from a few different ways to integrate their payment processing functionality into your website. One of their ways is via DirectPost, which allows an eCommerce website to process a credit card transaction without the credit card information ever being sent through the website&amp;rsquo;s servers.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Keep Your Nude Pictures Secure</title>
+      <link>https://thegeekspeaks.net/post/2014-09-03-5-ways-to-keep-your-nude-pictures-secure/</link>
+      <pubDate>Wed, 03 Sep 2014 02:47:06 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-03-5-ways-to-keep-your-nude-pictures-secure/</guid>
+      <description>With the recent revelation that there was a massive release of naked or revealing photographs of many female celebrities, it seems to be an important time to remind people how to make sure private photos and other information don&amp;rsquo;t get shared all around the internet without your permission. As a result, here are my top 5 ways to keep your nude pictures secure.
+  Don&amp;rsquo;t Take Nude Selfies - Yes, the best and easiest way to keep your naked selfies out of the sight for the public viewers on the internet is to never take a naked selfie in the first place.</description>
+    </item>
+    
+    <item>
+      <title>Hackers Exploiting Gullible Magento Site Administrators</title>
+      <link>https://thegeekspeaks.net/post/2014-07-29-hackers-exploiting-gullible-magento-site-administrators/</link>
+      <pubDate>Tue, 29 Jul 2014 01:15:26 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-29-hackers-exploiting-gullible-magento-site-administrators/</guid>
+      <description>Nexcess recently released a report of a Recent Exploit using Fake Magento Extensions was able to skim credit card information from affected Magento websites. While it seems that some of the stores were breached by correctly guessing simple admin usernames and passwords, others seemed to be the result of site administrators installing Magento Extensions that included backdoors that gave the hackers remote access to the website. Once the backdoor was installed, the hackers went on to modify core Magento files, ensuring that when a credit card order was placed, the credit card information would be saved to a text file that was hidden with an image file name extension .</description>
+    </item>
+    
+  </channel>
+</rss>

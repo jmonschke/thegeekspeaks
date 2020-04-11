@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/javascript/</link>
+    <description>Recent content in javascript on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2015 01:34:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handling Callbacks with a Depth-First Tree in JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</link>
+      <pubDate>Mon, 20 Apr 2015 01:34:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</guid>
+      <description>One of the hardest things to do in JavaScript when working with complex data structures and a callback oriented platform is to know for sure when all of your callbacks have been fully executed. This issue came to light when working with a MongoDB datastore that was being used to store an infinitely-deep nested menu structure.
+This menu structure could be visualized as being a tree. In order to get the all of the needed menu items from this tree, a depth-first traversal of the tree was determined to be the easiest to track.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Use MongoDB For The Wrong Things</title>
+      <link>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</link>
+      <pubDate>Tue, 07 Apr 2015 01:39:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</guid>
+      <description>The early phases of a greenfield project always seem to conjure up grand ideas of how to use the hottest new technologies to accomplish your goals. Many times, these grandiose plans give way to a more level-headed design discussion where more realistic technologies are adopted. However, there are a few times where the developer with the idea to use the hottest new technology is the one in charge, and ends up getting his way.</description>
+    </item>
+    
+    <item>
+      <title>Social-Buttons.Com Spams Google Analytics</title>
+      <link>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</link>
+      <pubDate>Thu, 02 Apr 2015 02:06:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</guid>
+      <description>Typically when you see traffic in Google Analytics, you can be sure that it is legitimate traffic to your website. However, there are a few known spammers out there that successfully spam Google Analytics tracking codes with bogus visits, hoping that the Analytics users visit the site that is supposedly &amp;ldquo;referring&amp;rdquo; traffic. One such domain that is being used for this is Social-Buttons.com.
+I have just begun to see traffic in Google Analytics from Social-Buttons.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Wide To Narrow</title>
+      <link>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</link>
+      <pubDate>Mon, 30 Mar 2015 01:46:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</guid>
+      <description>If you consider the path that a user takes through your website from landing page to successful conversion, you can think of the number of users that make it to each point along the way to a successful conversion as similarly shaped to that of a funnel. In a typical setup, you may have a very small percentage of your users make it to a successful conversion, but there are several areas along the way that either improve the chances the user will convert or decrease those chances.</description>
+    </item>
+    
+    <item>
+      <title>Another Micro-Optimization Provides Useless Results</title>
+      <link>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</link>
+      <pubDate>Thu, 26 Mar 2015 03:38:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</guid>
+      <description>One of the things to remember about performance optimizations performed in isolation is that their results are rarely representative of real-world performance results. This article outlines the &amp;ldquo;findings&amp;rdquo; of the students at a couple of Canadian universities, and comes to the conclusion that string concatenation in memory is slower than writing the same total number of bytes to disk, one after the other.
+ String concatenation is a slow and CPU-heavy operation.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Improves JavaScript Speeds Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</link>
+      <pubDate>Mon, 23 Mar 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</guid>
+      <description>One of the old rules of optimizing website load times for all browsers was that the browser didn&amp;rsquo;t begin to parse the downloaded JavaScript until each file was downloaded. Starting with Chrome 41, Google has announced that this is no longer the case.
+In this announcement, Google has said that new versions of Chrome will begin parsing JavaScript as it is downloaded to the browser, even before the particular file&amp;rsquo;s download is complete.</description>
+    </item>
+    
+    <item>
+      <title>Google To Begin Rewarding Mobile-Friendly Websites</title>
+      <link>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</link>
+      <pubDate>Fri, 20 Mar 2015 04:22:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</guid>
+      <description>Google recently announced that beginning April 21, 2015, they would start slightly rewarding websites that are mobile-friendly at the expense of sites that are not. There are several things that Google looks at to determine whether or not a site is easy for a user on a mobile device to view and navigate. Some of the things that Google looks for include the following:
+ Fonts that are big enough to be legible Users don&amp;rsquo;t have to scroll left and right to see content Links are big enough and have enough space around them to be clickable with a touch of a finger.</description>
+    </item>
+    
+    <item>
+      <title>When Is Enough CSS Enough?</title>
+      <link>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</link>
+      <pubDate>Tue, 17 Mar 2015 02:13:04 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</guid>
+      <description>One of the major pushes in web development today is to try to do as much of the styling of a website as is possible from within the CSS of the site. The idea behind this is that when you do so, you remove styling responsibilities from your JavaScript and HTML content, resulting in a much better separation of concerns. The other aspect of this is that CSS styling is typically handled in a more native fashion in the browser as compared to what you can accomplish via Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Google Code Shutting Down</title>
+      <link>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</link>
+      <pubDate>Mon, 16 Mar 2015 02:40:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</guid>
+      <description>Google just recently announced that they are going to begin the process of shutting down their Google Code project hosting service. In the blog post announcing that they were shuttering the service, they let it slip that even Google had quit using Google Code for their project hosting, instead transitioning thousands of their projects to GitHub. Google seemingly blames the fact that GitHub and BitBucket handle project hosting better than Google does as the main reason that they are discontinuing the service.</description>
+    </item>
+    
+    <item>
+      <title>Never Explicitly Trust Software Because It Is Open-Source</title>
+      <link>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</link>
+      <pubDate>Fri, 13 Mar 2015 02:33:22 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</guid>
+      <description>One of the major ideas behind open source projects is that allowing anyone that wants to view the source code of a project to be able to do so should make bugs and security weaknesses easy to find. While this did not work so well with OpenSSL and its various bugs that have been exposed recently, I do have an example where it worked extremely well.
+Magento is an eCommerce platform that has two separate editions.</description>
+    </item>
+    
+    <item>
+      <title>The Number 1 Cause of the Not Invented Here Syndrome</title>
+      <link>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</link>
+      <pubDate>Thu, 12 Mar 2015 02:44:18 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</guid>
+      <description>One of the quickest ways to get a new internal tool bootstrapped is to utilize an existing design, making slight adjustments to ensure the design matches the requirements of the current project. Instead of using another internal tool as the basis for the new design, I used a design that was purchased specifically for this project.
+This particular design was unique in that there were multiple working examples using AJAX, pure HTML, and AngularJS.</description>
+    </item>
+    
+    <item>
+      <title>Firefox 36 Has A Massive Memory Leak</title>
+      <link>https://thegeekspeaks.net/post/2015-03-11-firefox-36-has-a-massive-memory-leak/</link>
+      <pubDate>Wed, 11 Mar 2015 03:22:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-11-firefox-36-has-a-massive-memory-leak/</guid>
+      <description>While looking through our TrackJS logs the other day, I ran across a peculiar error message coming from Firefox 36 on Windows 7. The error message was simply out of memory. It seemed that the pesky local storage issue had reappeared mysteriously. However, with a quick check of the codebase, I verified that no one had accidentally reverted those fixes.
+With that possible cause ruled out, I turned to a developer&amp;rsquo;s best friend, Google, for solutions.</description>
+    </item>
+    
+    <item>
+      <title>Avoid &#39;Persistent storage maximum size reached&#39; in Firefox</title>
+      <link>https://thegeekspeaks.net/post/2015-03-03-avoid-persistent-storage-maximum-size-reached-in-firefox/</link>
+      <pubDate>Tue, 03 Mar 2015 04:37:37 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-03-avoid-persistent-storage-maximum-size-reached-in-firefox/</guid>
+      <description>One of the nice tools out there for tracking down issues that your website&amp;rsquo;s visitors are having is TrackJS. We started noticing the other day that we were getting overwhelmed by errors with the text Persistent storage maximum size reached for our Magento site. When we looked further into the issue, it quickly became obvious that all of the errors originated from a single user that was running Firefox.
+It quickly became obvious that there was a single user that had exhausted their localStorage resources on their browser, but why was it only one user?</description>
+    </item>
+    
+    <item>
+      <title>Authorize.Net Directpost is Overly Complex</title>
+      <link>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</link>
+      <pubDate>Fri, 09 Jan 2015 04:14:16 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</guid>
+      <description>One of the necessary evils that every ecommerce website that wants to accept credit card transactions must deal with is some sort of payment processing company. It just so happens that Authorize.net is one of the largest payment processors around, and they allow you to choose from a few different ways to integrate their payment processing functionality into your website. One of their ways is via DirectPost, which allows an eCommerce website to process a credit card transaction without the credit card information ever being sent through the website&amp;rsquo;s servers.</description>
+    </item>
+    
+    <item>
+      <title>Write Bulletproof JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</link>
+      <pubDate>Thu, 08 Jan 2015 03:30:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</guid>
+      <description>While display issues have long been the bane of a web developer&amp;rsquo;s existence, current web development projects tend to have much more client side interactivity, focusing ever more attention on the reliability and resilience of the JavaScript you write to deliver the complete interactive experience. Many things can cause unexpected errors in your carefully crafted code.
+However, there are a few things that you can do to make sure that your site degrades gracefully and still provides a basic level of functionality when something in the browser goes wrong.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Can Have An Interesting Interpretation of Order</title>
+      <link>https://thegeekspeaks.net/post/2015-01-07-javascript-can-have-an-interesting-interpretation-of-order/</link>
+      <pubDate>Wed, 07 Jan 2015 02:14:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-07-javascript-can-have-an-interesting-interpretation-of-order/</guid>
+      <description>There is an interesting little quirk with the way in which JavaScript decides which function it should execute next. You see, while the JavaScript engine has a single thread of execution, it creates the illusion of multiple simultaneous processes running at once by utilizing a queue of functions to execute. This means that every time you make a call to a function in your JavaScript, there is no absolute guarantee that it will be the next piece of code run, as there may have been other events triggered that beat your custom function onto the execution queue.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk about equality</title>
+      <link>https://thegeekspeaks.net/post/2015-01-05-lets-talk-about-equality/</link>
+      <pubDate>Mon, 05 Jan 2015 02:33:57 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-05-lets-talk-about-equality/</guid>
+      <description>Equality has been a major topic of discussion over the last few weeks. Whenever this topic comes up, I am always suprised how limited many people&amp;rsquo;s knowledge about true equality is. Relax everyone, I am talking about equality operators in JavaScript, and not the topic of national discussion recently.
+Thinking back to some interviews I have been a part of recently, it became extremely obvious how little most Front End Web Developers know about the JavaScript equaltiy operators.</description>
+    </item>
+    
+    <item>
+      <title>Top Job Applicants Never Stop Learning</title>
+      <link>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</link>
+      <pubDate>Sun, 04 Jan 2015 04:20:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</guid>
+      <description>From time to time, my job allows me to be a part of the hiring process for our technical positions. Unfortunately for some of the applicants, I repeatedly come away from these interviews amazed at the responses I get from pretty standard and basic technical questions related to Web Development.
+Recently we were looking for a front-end web developer that was good at UX and design and proficient at HTML, CSS, and JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>LocalStorage and Safari Weirdness</title>
+      <link>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</link>
+      <pubDate>Tue, 07 Oct 2014 01:44:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</guid>
+      <description>One of the technologies that has been intriguing to me for a while has been LocalStorage on the web browser. One of my first adventures into using persistent storage other than cookies on a web browser was the short-lived HTML 5 standard of the webSQL database. It turns out that it was simply a SQL Lite database that was accessible via JavaScript in all the WebKit browsers as well as Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Background Scrolling on Internet Explorer is Not Smooth</title>
+      <link>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</link>
+      <pubDate>Thu, 04 Sep 2014 00:48:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</guid>
+      <description>One of the pleasures of working on a website that is using some of the latest technologies is that you often run into strange compatability issues that only affect one browser or another, and many of the forums have little to no information about how to properly address the issues. Parallax scrolling is a technique that has been around for a while now, highlighted by Apple&amp;rsquo;s own iPhone 5s card-esque scrolling on their homepage, among others.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Makes Web Developers Lazy</title>
+      <link>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</link>
+      <pubDate>Thu, 21 Aug 2014 01:16:01 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</guid>
+      <description>This post may make me sound ancient in the world of web development, but here it comes anyway.
+ Like Microsoft, Google has decided to implement functionality in their dominant browser that is incompatible with the other major competing browsers.
+ When I first started developing websites professionally, ensuring a website worked for 99% of the site&amp;rsquo;s visitors was easy, relatively, as you only needed to make sure the site worked in Internet Explorer 6.</description>
+    </item>
+    
+    <item>
+      <title>Write Software for People, Not Computers</title>
+      <link>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</link>
+      <pubDate>Wed, 16 Jul 2014 01:42:55 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</guid>
+      <description>Throughout a normal day, I end up reading a lot of information about current issues in technology, and today is no different. There was a debate raging about whether or not high-level math was required for programmers that was sparked by this article by Sarah Mei Programming is not math. While it is an interesting topic, and, surprisingly, I mostly agree with Sarah on this issue, that is not the most important portion of her post.</description>
+    </item>
+    
+    <item>
+      <title>Always Use Automated Integration Testing</title>
+      <link>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</link>
+      <pubDate>Tue, 08 Jul 2014 02:34:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</guid>
+      <description>QA or Quality Assurance of a software project is often the area of software development that is most neglected. Typically developers avoid software testing like their lives depended on it. While a basic level of testing is required for a single scenario to validate that your code &amp;ldquo;works&amp;rdquo;, the level of testing that is required to ensure that all users have a good user experience across all targeted platforms is something that a developer seems to think is beneath them.</description>
+    </item>
+    
+    <item>
+      <title>AddThis Can Cause Your Site To Not Load</title>
+      <link>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</link>
+      <pubDate>Mon, 07 Jul 2014 01:38:09 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</guid>
+      <description>Over the last few days, I have run across quite a few websites that seem to never finish loading. After waiting for 20 seconds or more, I give up, realizing that whatever content was on the site wasn&amp;rsquo;t worth it anymore for me to stare at a blank white browser until it loaded however much longer. Unfortunately for those websites, they are losing traffic that they will never get back.</description>
+    </item>
+    
+    <item>
+      <title>== and === in JavaScript and HTML Input Elements</title>
+      <link>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</link>
+      <pubDate>Thu, 03 Jul 2014 03:39:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</guid>
+      <description>If you read any current information about best practices in JavaScript, you will typically find the following advice somewhere in the list of things to do.
+ Always use === and !== while avoiding == and !=
+ While I will never argue against this advice, there are a few things that a developer shoule realize when using === and !== instead of == and !=.
+ === and !== first do a check of the data type of the two objects you are comparing.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development Failure</title>
+      <link>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</link>
+      <pubDate>Wed, 11 Jun 2014 02:11:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</guid>
+      <description>In the past, I have argued that devensive development is a useful tool to ensure unexpected exceptions are not introduced into a piece of software as well as ensuring that the error conditions are handled in an appropriate manner. Unfortunately, if defensive development is implemented poorly, it achieves none of its goals and can cause errors and exceptions to occur. One example that I found while reviewing some code recently is below:</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development - Fail Fast or Go Home</title>
+      <link>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</link>
+      <pubDate>Mon, 02 Jun 2014 02:07:32 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</guid>
+      <description>Defensive Development is a programming practice that is frequently misunderstood, but is nevertheless a critical practice to follow when working in many environments. I have seen articles written that argue that defensive development simply causes nonsensical null checks to be written, and as a result of seeing people writing bad code defensively, argues that no one should practice defensive development. There are other articles that, like many things in software development, argue that you should always use defensive development for everything.</description>
+    </item>
+    
+    <item>
+      <title>Avoid SiteCatalyst&#39;s useForcedLinkTracking and target=&#34;_blank&#34;</title>
+      <link>https://thegeekspeaks.net/post/2014-05-23-avoid-sitecatalysts-useforcedlinktracking-and-target_blank/</link>
+      <pubDate>Fri, 23 May 2014 16:13:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-23-avoid-sitecatalysts-useforcedlinktracking-and-target_blank/</guid>
+      <description>All sites rely upon some third party analytics software to track at the very least the number of visitors to a site. Many sites use Google Analytics, which provide much more information that just the number of visitors. Another option that some of the bigger sites use is Adobe Analytics, aka SiteCatalyst to enable more custom tracking options that are not evident through the Google Analytics interface.
+One feature of SiteCatalyst is that it allows you to set an option useForcedLinkTracking that will track every link on your site for clicks whether or not you have setup custom tracking for the links or not.</description>
+    </item>
+    
+    <item>
+      <title>Window.Open Causes Browser Compatibilty Issues</title>
+      <link>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</link>
+      <pubDate>Wed, 21 May 2014 01:52:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</guid>
+      <description>One of the things that always annoys me as a web developer is when native browser functions that are accesible from JavaScript do not share the same function signature. One perfect example of this is the window.open function. When you are using non-Microsoft browsers such as Firefox and Chrome, you are able to make a call something like this window.open(url, &#39;window name&#39;, &#39;dimensions or other settings&#39;);. The window name parameter is important because it allows you to open multiple links in the same external window/tab.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images with Picturefill 2.0</title>
+      <link>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</link>
+      <pubDate>Wed, 14 May 2014 02:09:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</guid>
+      <description>Responsive Web Design seems to be the way that the majority of websites will be developed in the near future. For a while, everyone was creating a separate website that catered to mobile devices in addition to the main website that desktop browsers were able to access. Web Developers and UX Designers quickly discovered that this was a less than ideal approach as it required maintaining two separate websites, and the mobile website tended to remove data that was visible on the desktop version of the site.</description>
+    </item>
+    
+    <item>
+      <title>Why Use AddThis.com Sharing Buttons</title>
+      <link>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</link>
+      <pubDate>Thu, 01 May 2014 03:42:28 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</guid>
+      <description>AddThis.com produces a bit of JavaScript that enables website owners to quickly and easily add social sharing buttons/links to their website. In addition to allowing users to easily share your content socially, they also provide analytics information about what content is shared via which method, giving a greater insight into visitor behavior.
+However, just because it provides these benefits to websites does not necessarily mean that it is a good tool to implement on your website.</description>
+    </item>
+    
+    <item>
+      <title>Always Namespace Variable Names in JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</link>
+      <pubDate>Wed, 30 Apr 2014 01:59:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</guid>
+      <description>After running into a few issues with variable naming collisions over the past few days, it drives home how much we all should be namespacing our variable names in JavaScript. When writing JavaScript code that is only in use on your own website, you should still always namespace your variables. If you are writting a JavaScript library that will be in use on any website a user puts it on, namespacing your variable names is a minimum requirement.</description>
+    </item>
+    
+    <item>
+      <title>Avoid jQuery.bind()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</link>
+      <pubDate>Tue, 29 Apr 2014 03:58:31 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</guid>
+      <description>When chasing down performance issues, you never know what kind of problems you will find. I was looking for something that would cause jitter when scrolling on the page. After looking at the custom code that runs on every scroll event, I still had not found a reason for the jitter. Looking at the JavaScript CPU profile when scrolling in Chrome showed that there was an overwhelming majority of the time spent in a function in the Prototype JS library.</description>
+    </item>
+    
+    <item>
+      <title>Hover Effects in JavaScript?</title>
+      <link>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</link>
+      <pubDate>Tue, 01 Apr 2014 02:16:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</guid>
+      <description>One of the things that can be annoying when looking at someone else&amp;rsquo;s code is when a more complex technology is used to solve a problem that can be handled more simply with another method.
+An example of this is when you utilize JavaScript to implement a hover effect on some elements. I know of one scenario when you would need JavaScript to trigger a hover effect, and that would be when you want to trigger the hover effect with a touch event.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Templating</title>
+      <link>https://thegeekspeaks.net/post/2014-03-31-javascript-templating/</link>
+      <pubDate>Mon, 31 Mar 2014 01:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-31-javascript-templating/</guid>
+      <description>Many times it becomes useful to be able to make an AJAX request for some data, insert it into some HTML that is already on the client, and then display it to the user. There are a few ways to implement this, each approach has its benefits and drawbacks.
+##String Concatenation
+Possibly the simplest way to accomplish the templating in JavaScript is to use simple string concatenation with &amp;lsquo;+&amp;rsquo;. This is the approach that I see many newcomers to JavaScript use in their code, as it is the simplest to implement.</description>
+    </item>
+    
+  </channel>
+</rss>

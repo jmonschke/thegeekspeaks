@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql-server on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/sql-server/</link>
+    <description>Recent content in sql-server on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2014 02:19:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avoid SQL Deadlocks -- Break Up Large Updates</title>
+      <link>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</link>
+      <pubDate>Thu, 08 May 2014 02:19:46 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</guid>
+      <description>Deadlocks in SQL occur when one query locks certain rows, frequently for updates, and a second query tries to update those same rows. The second query will then create an error as those rows are unable to be updated since they are in the middle of an update from another query. One of the surefire ways to create a slow running update query like the first query above is to hava a single update statement that will update a large number of rows at once.</description>
+    </item>
+    
+    <item>
+      <title>How Not to Use SQL Transactions</title>
+      <link>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</link>
+      <pubDate>Fri, 11 Apr 2014 02:20:17 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</guid>
+      <description>SQL Transactions allow you to isolate atomic operations so that you can ensure that a third party does not update the data affected during the atomic operation protected by the transaction. An example of an operation that you would want to protect with a SQL Transaction would be transferring funds from one bank account to another. The first step of this operation would be to subtract the funds from bank account A.</description>
+    </item>
+    
+    <item>
+      <title>Unexpected Results with SQL Server and Python pyodbc</title>
+      <link>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</link>
+      <pubDate>Thu, 10 Apr 2014 00:40:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</guid>
+      <description>Using the Microsoft SQL Server Management Studio (SSMS) with SQL Server hides many of the API complications that can sometimes arise when working with SQL Server. One specific example would be when using Python on Windows with the pyodbc driver. If you have an update statement that performs a simple update to a status column and a datetime column, you can have some unexpected results.
+Lets say that the table you are running the update against has a before update trigger and an after update trigger configured on it.</description>
+    </item>
+    
+    <item>
+      <title>SQL Server Transaction Log Exponential Growth</title>
+      <link>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</link>
+      <pubDate>Wed, 09 Apr 2014 01:35:42 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</guid>
+      <description>There are few things more frustrating than seemingly random issues that crop up in software when configuration changes occur. One such occurrence is when you migrate your databases from Microsoft SQL Server 2012 Standard Edition to Microsoft SQL Server 2012 Enterprise Edition with High Availability and the transaction log suddenly begins to experience exponential growth without ceasing.
+It turns out that when using Python and pyodbc on Windows to access SQL Server, there can be some unpredictable results.</description>
+    </item>
+    
+  </channel>
+</rss>

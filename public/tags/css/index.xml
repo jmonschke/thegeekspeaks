@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/css/</link>
+    <description>Recent content in css on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2015 01:44:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Write Your Own Compass Mixin</title>
+      <link>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</link>
+      <pubDate>Mon, 06 Apr 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</guid>
+      <description>As a developer working with CSS, one of the things that I find a bit troubling is the amount of style definitions that I have to repeat over and over to achieve the design I desire. One of the basic tenets of software development is to utilize the DRY principle, otherwise known as Don&amp;rsquo;t Repeat Yourself. Fortunately, when you implement Compass and SASS in your project to generate your CSS, you have a way to avoid copy-paste programming.</description>
+    </item>
+    
+    <item>
+      <title>Using The Ampersand With Compass</title>
+      <link>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</link>
+      <pubDate>Wed, 01 Apr 2015 00:41:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</guid>
+      <description>While much of working with Compass to generate the CSS for your site is straightforward, there are a few ways to use Compass the provide great power, but are not as easy to understand at first glance. This article discusses one such way, hopefully making it easier to understand.
+The operator that we will be looking at first is the &amp;amp; operator. The &amp;amp; as part of a selector in Compass allows you to take the entire selector string at a higher nesting level than the &amp;amp; currently resides upon, and replace the &amp;amp; with that selector string.</description>
+    </item>
+    
+    <item>
+      <title>Compass Makes Writing CSS Fun Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</link>
+      <pubDate>Tue, 31 Mar 2015 00:40:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</guid>
+      <description>One of the things that has always annoyed me about web development is that writing CSS generally becomes a task that has a major lack of the features that you would expect in a programming language, even one as simple as JavaScript. These features that would be wonderful to have when working with CSS are the ability to use variables to define a set of basic colors that are in use across the site in one place, and then use the variable name throughout the stylesheet.</description>
+    </item>
+    
+    <item>
+      <title>When Is Enough CSS Enough?</title>
+      <link>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</link>
+      <pubDate>Tue, 17 Mar 2015 02:13:04 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</guid>
+      <description>One of the major pushes in web development today is to try to do as much of the styling of a website as is possible from within the CSS of the site. The idea behind this is that when you do so, you remove styling responsibilities from your JavaScript and HTML content, resulting in a much better separation of concerns. The other aspect of this is that CSS styling is typically handled in a more native fashion in the browser as compared to what you can accomplish via Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Top Job Applicants Never Stop Learning</title>
+      <link>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</link>
+      <pubDate>Sun, 04 Jan 2015 04:20:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</guid>
+      <description>From time to time, my job allows me to be a part of the hiring process for our technical positions. Unfortunately for some of the applicants, I repeatedly come away from these interviews amazed at the responses I get from pretty standard and basic technical questions related to Web Development.
+Recently we were looking for a front-end web developer that was good at UX and design and proficient at HTML, CSS, and JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Hover Effects in JavaScript?</title>
+      <link>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</link>
+      <pubDate>Tue, 01 Apr 2014 02:16:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</guid>
+      <description>One of the things that can be annoying when looking at someone else&amp;rsquo;s code is when a more complex technology is used to solve a problem that can be handled more simply with another method.
+An example of this is when you utilize JavaScript to implement a hover effect on some elements. I know of one scenario when you would need JavaScript to trigger a hover effect, and that would be when you want to trigger the hover effect with a touch event.</description>
+    </item>
+    
+  </channel>
+</rss>

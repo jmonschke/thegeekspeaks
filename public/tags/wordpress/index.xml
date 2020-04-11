@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/wordpress/</link>
+    <description>Recent content in wordpress on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Apr 2014 01:38:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress and the Genesis Framework</title>
+      <link>https://thegeekspeaks.net/post/2014-04-08-wordpress-and-the-genesis-framework/</link>
+      <pubDate>Tue, 08 Apr 2014 01:38:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-08-wordpress-and-the-genesis-framework/</guid>
+      <description>It turns out that working with WordPress and the Genesis Framework is quite a bit different than working with Magento or other blogging platforms. Ghost is a blogging platform that runs on NodeJs that utilizes Handlebars templates for the layout of the content on the website itself. Similarly, Magento uses its own templating system in .phtml files for laying out content on the screen. However, WordPress, and specifically the Genesis Framework have taken this simple templating concept and added quite a few layers of abstraction to come to the end result.</description>
+    </item>
+    
+  </channel>
+</rss>

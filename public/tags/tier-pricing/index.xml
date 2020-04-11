@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tier-pricing on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/tier-pricing/</link>
+    <description>Recent content in tier-pricing on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2014 21:06:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/tier-pricing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saving Products in Magento Deletes Tier Pricing</title>
+      <link>https://thegeekspeaks.net/post/2014-04-06-saving-products-in-magento-deletes-tier-pricing/</link>
+      <pubDate>Sun, 06 Apr 2014 21:06:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-06-saving-products-in-magento-deletes-tier-pricing/</guid>
+      <description>Magento&amp;rsquo;s framework makes many things simple to accomplish when working with the products and categories of your eCommerce website. However, I have found one scenario that doesn&amp;rsquo;t exactly work as expected. ##Tier Pricing in Magento Magento allows you to setup custom pricing levels based upon the quantity purchased. You set the minimum quantity purchased to enable the lower price when the part is added to the customer&amp;rsquo;s cart. You could see where losing the tiered pricing for an entire catalog of products would be a big deal for a site.</description>
+    </item>
+    
+  </channel>
+</rss>

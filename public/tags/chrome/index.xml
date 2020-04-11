@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chrome on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/chrome/</link>
+    <description>Recent content in chrome on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2015 01:44:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Chrome Improves JavaScript Speeds Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</link>
+      <pubDate>Mon, 23 Mar 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</guid>
+      <description>One of the old rules of optimizing website load times for all browsers was that the browser didn&amp;rsquo;t begin to parse the downloaded JavaScript until each file was downloaded. Starting with Chrome 41, Google has announced that this is no longer the case.
+In this announcement, Google has said that new versions of Chrome will begin parsing JavaScript as it is downloaded to the browser, even before the particular file&amp;rsquo;s download is complete.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Reasons To Test Your Website Across Browsers</title>
+      <link>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</link>
+      <pubDate>Wed, 18 Mar 2015 01:29:45 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</guid>
+      <description>I would hope that those of you taking the time to read this posting would have some idea of why you should perform some level of testing of the software and websites you create. However, I am keenly aware that some management types don&amp;rsquo;t always understand the importance of testing until an untested &amp;ldquo;feature&amp;rdquo; appears in the wild, frustrating all that run across it.
+ Ensure Cross Browser Compatibility- Unless you develop a website for internal usage only, where you are able to successfully restrict users to a specific version of a specific browser, Cross Browser Compatibility ensures your site functions well for the greatest number of users.</description>
+    </item>
+    
+    <item>
+      <title>Web Browser Font Rendering is the New Edge Case</title>
+      <link>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</link>
+      <pubDate>Mon, 13 Oct 2014 01:48:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</guid>
+      <description>In the early days of the web, designers and developers relied upon visitors to the sites they were developing to have their chosen font pre-installed on their computers so that their web browser of choice would be able to properly render the selected font. As quickly became obvious, there is a wide variety of fonts installed across all computers worldwide, so this was not an achievable scenario, especially when print level typography was desired.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Makes Web Developers Lazy</title>
+      <link>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</link>
+      <pubDate>Thu, 21 Aug 2014 01:16:01 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</guid>
+      <description>This post may make me sound ancient in the world of web development, but here it comes anyway.
+ Like Microsoft, Google has decided to implement functionality in their dominant browser that is incompatible with the other major competing browsers.
+ When I first started developing websites professionally, ensuring a website worked for 99% of the site&amp;rsquo;s visitors was easy, relatively, as you only needed to make sure the site worked in Internet Explorer 6.</description>
+    </item>
+    
+    <item>
+      <title>Window.Open Causes Browser Compatibilty Issues</title>
+      <link>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</link>
+      <pubDate>Wed, 21 May 2014 01:52:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</guid>
+      <description>One of the things that always annoys me as a web developer is when native browser functions that are accesible from JavaScript do not share the same function signature. One perfect example of this is the window.open function. When you are using non-Microsoft browsers such as Firefox and Chrome, you are able to make a call something like this window.open(url, &#39;window name&#39;, &#39;dimensions or other settings&#39;);. The window name parameter is important because it allows you to open multiple links in the same external window/tab.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Site Speed is a bit Unreliable</title>
+      <link>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</link>
+      <pubDate>Mon, 19 May 2014 14:21:29 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</guid>
+      <description>Google Analytics will now allow site owners to track the performance of their websites with real live traffic. This is a nice feature that lets you understand just how long it takes for the average visitor to your site to see the fully complete version of your website. While this sounds like a great tool that will give you an accurate view of yoru website&amp;rsquo;s performance, it does not tell the full story.</description>
+    </item>
+    
+  </channel>
+</rss>

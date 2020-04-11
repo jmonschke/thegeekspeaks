@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>performance on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/performance/</link>
+    <description>Recent content in performance on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2015 02:06:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social-Buttons.Com Spams Google Analytics</title>
+      <link>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</link>
+      <pubDate>Thu, 02 Apr 2015 02:06:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</guid>
+      <description>Typically when you see traffic in Google Analytics, you can be sure that it is legitimate traffic to your website. However, there are a few known spammers out there that successfully spam Google Analytics tracking codes with bogus visits, hoping that the Analytics users visit the site that is supposedly &amp;ldquo;referring&amp;rdquo; traffic. One such domain that is being used for this is Social-Buttons.com.
+I have just begun to see traffic in Google Analytics from Social-Buttons.</description>
+    </item>
+    
+    <item>
+      <title>PHP serialize/unserialize is faster than json_encode/json_decode</title>
+      <link>https://thegeekspeaks.net/post/2014-08-18-php-serializeunserialize-is-faster-than-json_encodejson_decode/</link>
+      <pubDate>Mon, 18 Aug 2014 01:18:13 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-18-php-serializeunserialize-is-faster-than-json_encodejson_decode/</guid>
+      <description>One of the things that I tend to focus on with a website is how quickly everything loads and executes. However, that focus can sometimes get to be a bit too narrow, only considering the performance of those resources that are required for the initial page load, and not for other dynamic aspects of the site. We recently implemented New Relic on one site, and gained much insight into how long each aspect of our site took to load, and how long each of the most popular requests took to execute.</description>
+    </item>
+    
+    <item>
+      <title>AddThis Can Cause Your Site To Not Load</title>
+      <link>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</link>
+      <pubDate>Mon, 07 Jul 2014 01:38:09 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</guid>
+      <description>Over the last few days, I have run across quite a few websites that seem to never finish loading. After waiting for 20 seconds or more, I give up, realizing that whatever content was on the site wasn&amp;rsquo;t worth it anymore for me to stare at a blank white browser until it loaded however much longer. Unfortunately for those websites, they are losing traffic that they will never get back.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Site Speed is a bit Unreliable</title>
+      <link>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</link>
+      <pubDate>Mon, 19 May 2014 14:21:29 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</guid>
+      <description>Google Analytics will now allow site owners to track the performance of their websites with real live traffic. This is a nice feature that lets you understand just how long it takes for the average visitor to your site to see the fully complete version of your website. While this sounds like a great tool that will give you an accurate view of yoru website&amp;rsquo;s performance, it does not tell the full story.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images with Picturefill 2.0</title>
+      <link>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</link>
+      <pubDate>Wed, 14 May 2014 02:09:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</guid>
+      <description>Responsive Web Design seems to be the way that the majority of websites will be developed in the near future. For a while, everyone was creating a separate website that catered to mobile devices in addition to the main website that desktop browsers were able to access. Web Developers and UX Designers quickly discovered that this was a less than ideal approach as it required maintaining two separate websites, and the mobile website tended to remove data that was visible on the desktop version of the site.</description>
+    </item>
+    
+    <item>
+      <title>Unintended Consequences with Magento Observers on Sales Orders</title>
+      <link>https://thegeekspeaks.net/post/2014-05-06-unintended-consequences-with-magento-observers-on-sales-orders/</link>
+      <pubDate>Tue, 06 May 2014 01:59:59 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-06-unintended-consequences-with-magento-observers-on-sales-orders/</guid>
+      <description>Anyone that uses Magento to place orders will be hard-pressed to consider this process a speedy one. While it takes a while to process the order under the best of circumstances, there are a few things that you can do that actually make it worse.
+One of those things that can make it worse is creating an observer that runs in the middle of the saving of the order processes that is always slow-running, or continues to get slower over time as the data that the Magento site grows.</description>
+    </item>
+    
+    <item>
+      <title>Why Use AddThis.com Sharing Buttons</title>
+      <link>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</link>
+      <pubDate>Thu, 01 May 2014 03:42:28 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</guid>
+      <description>AddThis.com produces a bit of JavaScript that enables website owners to quickly and easily add social sharing buttons/links to their website. In addition to allowing users to easily share your content socially, they also provide analytics information about what content is shared via which method, giving a greater insight into visitor behavior.
+However, just because it provides these benefits to websites does not necessarily mean that it is a good tool to implement on your website.</description>
+    </item>
+    
+    <item>
+      <title>Avoid jQuery.bind()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</link>
+      <pubDate>Tue, 29 Apr 2014 03:58:31 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</guid>
+      <description>When chasing down performance issues, you never know what kind of problems you will find. I was looking for something that would cause jitter when scrolling on the page. After looking at the custom code that runs on every scroll event, I still had not found a reason for the jitter. Looking at the JavaScript CPU profile when scrolling in Chrome showed that there was an overwhelming majority of the time spent in a function in the Prototype JS library.</description>
+    </item>
+    
+    <item>
+      <title>Improve jQuery Performance With $().addClass()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</link>
+      <pubDate>Mon, 28 Apr 2014 01:23:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</guid>
+      <description>When looking at things that make a website seem sluggish, you might assume that the most popular JavaScript framework out there always does things in the most efficient manner. However, as I have found, jQuery does not always produce the best performance due to it having to support many different browsers with version 1.x. As a general rule, instead of setting CSS attributes directly on the selected nodes, I prefer to instead add and remove classes on those nodes instead, as it seems to perform much better.</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Website Load Time</title>
+      <link>https://thegeekspeaks.net/post/2014-04-25-optimizing-website-load-time/</link>
+      <pubDate>Fri, 25 Apr 2014 02:26:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-25-optimizing-website-load-time/</guid>
+      <description>Assuming you have already done a few things to improve the page load time of your website, such as using a Varnish caching server, GZipping your content in transit, minifying that same content, and turning on all caching options that Magento or your web platform of choice have available, there is still more you can do. When it comes to website performance, the 80/20 rule definitely applies. 80% of the performance tweaks that you perform will only provide a miniscule improvement to the site load time, while the 20% of things you do make a big difference.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Magento Time To First Byte</title>
+      <link>https://thegeekspeaks.net/post/2014-04-24-optimize-magento-time-to-first-byte/</link>
+      <pubDate>Thu, 24 Apr 2014 00:41:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-24-optimize-magento-time-to-first-byte/</guid>
+      <description>When looking at the performance of your site, waterfall charts are one of the first places you should investigate. The first thing that is represented on these charts is that the HTML for the website is the first resource that is downloaded every time.
+As a result of being the first resource downloaded every time, this is the logical first place to look to improve the performance of your Magento website.</description>
+    </item>
+    
+    <item>
+      <title>Varnish and Magento Performance Mystery</title>
+      <link>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</link>
+      <pubDate>Mon, 14 Apr 2014 21:43:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</guid>
+      <description>One of the things that you think you will solve when you implement a Varnish caching server in front of a Magento website is performance problems. However, this is not necessarily the case.
+When I set Varnish up to cache content in front of my Magento website, I get what seems to be much improved performance. If I run a few tests in the developer tools of Chrome, it seems that the waterfall chart makes sense and the data is loaded appropriately and in a timely manner with the main HTML being downloaded in about 300ms.</description>
+    </item>
+    
+  </channel>
+</rss>

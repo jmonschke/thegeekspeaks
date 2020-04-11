@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/google/</link>
+    <description>Recent content in google on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2015 02:06:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social-Buttons.Com Spams Google Analytics</title>
+      <link>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</link>
+      <pubDate>Thu, 02 Apr 2015 02:06:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</guid>
+      <description>Typically when you see traffic in Google Analytics, you can be sure that it is legitimate traffic to your website. However, there are a few known spammers out there that successfully spam Google Analytics tracking codes with bogus visits, hoping that the Analytics users visit the site that is supposedly &amp;ldquo;referring&amp;rdquo; traffic. One such domain that is being used for this is Social-Buttons.com.
+I have just begun to see traffic in Google Analytics from Social-Buttons.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Improves JavaScript Speeds Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</link>
+      <pubDate>Mon, 23 Mar 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</guid>
+      <description>One of the old rules of optimizing website load times for all browsers was that the browser didn&amp;rsquo;t begin to parse the downloaded JavaScript until each file was downloaded. Starting with Chrome 41, Google has announced that this is no longer the case.
+In this announcement, Google has said that new versions of Chrome will begin parsing JavaScript as it is downloaded to the browser, even before the particular file&amp;rsquo;s download is complete.</description>
+    </item>
+    
+    <item>
+      <title>Google To Begin Rewarding Mobile-Friendly Websites</title>
+      <link>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</link>
+      <pubDate>Fri, 20 Mar 2015 04:22:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</guid>
+      <description>Google recently announced that beginning April 21, 2015, they would start slightly rewarding websites that are mobile-friendly at the expense of sites that are not. There are several things that Google looks at to determine whether or not a site is easy for a user on a mobile device to view and navigate. Some of the things that Google looks for include the following:
+ Fonts that are big enough to be legible Users don&amp;rsquo;t have to scroll left and right to see content Links are big enough and have enough space around them to be clickable with a touch of a finger.</description>
+    </item>
+    
+    <item>
+      <title>Google Code Shutting Down</title>
+      <link>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</link>
+      <pubDate>Mon, 16 Mar 2015 02:40:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</guid>
+      <description>Google just recently announced that they are going to begin the process of shutting down their Google Code project hosting service. In the blog post announcing that they were shuttering the service, they let it slip that even Google had quit using Google Code for their project hosting, instead transitioning thousands of their projects to GitHub. Google seemingly blames the fact that GitHub and BitBucket handle project hosting better than Google does as the main reason that they are discontinuing the service.</description>
+    </item>
+    
+    <item>
+      <title>Bing ignores robots.txt</title>
+      <link>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</link>
+      <pubDate>Sat, 03 Jan 2015 06:23:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</guid>
+      <description>One of the long-standing conventions on the web is that automated search engine crawlers should follow a set of rules about what pages they should and should not visit and index. For many crawlers or bots, all you have to do is properly setup your robots.txt file, and viola, you control what the bot will and will not visit. The GoogleBot tends to behave well according to what is in the robots.</description>
+    </item>
+    
+    <item>
+      <title>Web Browser Font Rendering is the New Edge Case</title>
+      <link>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</link>
+      <pubDate>Mon, 13 Oct 2014 01:48:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</guid>
+      <description>In the early days of the web, designers and developers relied upon visitors to the sites they were developing to have their chosen font pre-installed on their computers so that their web browser of choice would be able to properly render the selected font. As quickly became obvious, there is a wide variety of fonts installed across all computers worldwide, so this was not an achievable scenario, especially when print level typography was desired.</description>
+    </item>
+    
+  </channel>
+</rss>

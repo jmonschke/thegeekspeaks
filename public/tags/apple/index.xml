@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apple on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/apple/</link>
+    <description>Recent content in apple on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2014 01:44:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LocalStorage and Safari Weirdness</title>
+      <link>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</link>
+      <pubDate>Tue, 07 Oct 2014 01:44:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</guid>
+      <description>One of the technologies that has been intriguing to me for a while has been LocalStorage on the web browser. One of my first adventures into using persistent storage other than cookies on a web browser was the short-lived HTML 5 standard of the webSQL database. It turns out that it was simply a SQL Lite database that was accessible via JavaScript in all the WebKit browsers as well as Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s iPhone Announcement is a Big Deal for T-Mobile</title>
+      <link>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</link>
+      <pubDate>Fri, 19 Sep 2014 01:48:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</guid>
+      <description>Every year, we are treated to a big show from Apple about what the next iPhone will be like, and how magical it actually is. In case you have been living under a rock, this major Apple annoucement is one of the largest news-making fancy press-conferences you will see these days. It used to be this way when Microsoft would launch a new operating system, remember that launch announcement and launch party for Windows XP?</description>
+    </item>
+    
+  </channel>
+</rss>

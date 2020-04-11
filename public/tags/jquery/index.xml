@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jquery on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/jquery/</link>
+    <description>Recent content in jquery on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2015 02:44:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/jquery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Number 1 Cause of the Not Invented Here Syndrome</title>
+      <link>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</link>
+      <pubDate>Thu, 12 Mar 2015 02:44:18 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</guid>
+      <description>One of the quickest ways to get a new internal tool bootstrapped is to utilize an existing design, making slight adjustments to ensure the design matches the requirements of the current project. Instead of using another internal tool as the basis for the new design, I used a design that was purchased specifically for this project.
+This particular design was unique in that there were multiple working examples using AJAX, pure HTML, and AngularJS.</description>
+    </item>
+    
+    <item>
+      <title>Write Bulletproof JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</link>
+      <pubDate>Thu, 08 Jan 2015 03:30:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</guid>
+      <description>While display issues have long been the bane of a web developer&amp;rsquo;s existence, current web development projects tend to have much more client side interactivity, focusing ever more attention on the reliability and resilience of the JavaScript you write to deliver the complete interactive experience. Many things can cause unexpected errors in your carefully crafted code.
+However, there are a few things that you can do to make sure that your site degrades gracefully and still provides a basic level of functionality when something in the browser goes wrong.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Background Scrolling on Internet Explorer is Not Smooth</title>
+      <link>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</link>
+      <pubDate>Thu, 04 Sep 2014 00:48:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</guid>
+      <description>One of the pleasures of working on a website that is using some of the latest technologies is that you often run into strange compatability issues that only affect one browser or another, and many of the forums have little to no information about how to properly address the issues. Parallax scrolling is a technique that has been around for a while now, highlighted by Apple&amp;rsquo;s own iPhone 5s card-esque scrolling on their homepage, among others.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Makes Web Developers Lazy</title>
+      <link>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</link>
+      <pubDate>Thu, 21 Aug 2014 01:16:01 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</guid>
+      <description>This post may make me sound ancient in the world of web development, but here it comes anyway.
+ Like Microsoft, Google has decided to implement functionality in their dominant browser that is incompatible with the other major competing browsers.
+ When I first started developing websites professionally, ensuring a website worked for 99% of the site&amp;rsquo;s visitors was easy, relatively, as you only needed to make sure the site worked in Internet Explorer 6.</description>
+    </item>
+    
+    <item>
+      <title>== and === in JavaScript and HTML Input Elements</title>
+      <link>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</link>
+      <pubDate>Thu, 03 Jul 2014 03:39:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</guid>
+      <description>If you read any current information about best practices in JavaScript, you will typically find the following advice somewhere in the list of things to do.
+ Always use === and !== while avoiding == and !=
+ While I will never argue against this advice, there are a few things that a developer shoule realize when using === and !== instead of == and !=.
+ === and !== first do a check of the data type of the two objects you are comparing.</description>
+    </item>
+    
+    <item>
+      <title>Always URL Encode your Cookies</title>
+      <link>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</link>
+      <pubDate>Mon, 23 Jun 2014 01:47:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</guid>
+      <description>One of the things that you tend to forget about when dealing with websites that typically only cater to English-speaking visitors is how to properly deal with Unicode throughout the site. It turns out that some browsers handle Unicode support in different sections of the browser differently.
+For instance, it turns out that when you want to store Unicode data as the value in a cookie, your success may vary across browsers.</description>
+    </item>
+    
+    <item>
+      <title>Avoid jQuery.bind()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</link>
+      <pubDate>Tue, 29 Apr 2014 03:58:31 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</guid>
+      <description>When chasing down performance issues, you never know what kind of problems you will find. I was looking for something that would cause jitter when scrolling on the page. After looking at the custom code that runs on every scroll event, I still had not found a reason for the jitter. Looking at the JavaScript CPU profile when scrolling in Chrome showed that there was an overwhelming majority of the time spent in a function in the Prototype JS library.</description>
+    </item>
+    
+    <item>
+      <title>Improve jQuery Performance With $().addClass()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</link>
+      <pubDate>Mon, 28 Apr 2014 01:23:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</guid>
+      <description>When looking at things that make a website seem sluggish, you might assume that the most popular JavaScript framework out there always does things in the most efficient manner. However, as I have found, jQuery does not always produce the best performance due to it having to support many different browsers with version 1.x. As a general rule, instead of setting CSS attributes directly on the selected nodes, I prefer to instead add and remove classes on those nodes instead, as it seems to perform much better.</description>
+    </item>
+    
+    <item>
+      <title>jQuery.hover Issues in Internet Explorer on Windows 7</title>
+      <link>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</link>
+      <pubDate>Thu, 27 Mar 2014 01:45:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</guid>
+      <description>When creating a new mega-dropdown menu for a site I was working on, I used jQuery&amp;rsquo;s .hover event to trigger which content the menu was displayed. This seemed to work as expected in most browsers that I tested in, except for one, Internet Explorer. Unfortunately, it wasn&amp;rsquo;t even in every instance of Internet Explorer. ##Windows 7 After Windows Vista came out as one of the biggest duds that the world has ever seen, Windows 7 was a ringing success.</description>
+    </item>
+    
+  </channel>
+</rss>

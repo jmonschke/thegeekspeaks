@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internet-explorer on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/internet-explorer/</link>
+    <description>Recent content in internet-explorer on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2015 01:29:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/internet-explorer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top 5 Reasons To Test Your Website Across Browsers</title>
+      <link>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</link>
+      <pubDate>Wed, 18 Mar 2015 01:29:45 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</guid>
+      <description>I would hope that those of you taking the time to read this posting would have some idea of why you should perform some level of testing of the software and websites you create. However, I am keenly aware that some management types don&amp;rsquo;t always understand the importance of testing until an untested &amp;ldquo;feature&amp;rdquo; appears in the wild, frustrating all that run across it.
+ Ensure Cross Browser Compatibility- Unless you develop a website for internal usage only, where you are able to successfully restrict users to a specific version of a specific browser, Cross Browser Compatibility ensures your site functions well for the greatest number of users.</description>
+    </item>
+    
+    <item>
+      <title>When Is Enough CSS Enough?</title>
+      <link>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</link>
+      <pubDate>Tue, 17 Mar 2015 02:13:04 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</guid>
+      <description>One of the major pushes in web development today is to try to do as much of the styling of a website as is possible from within the CSS of the site. The idea behind this is that when you do so, you remove styling responsibilities from your JavaScript and HTML content, resulting in a much better separation of concerns. The other aspect of this is that CSS styling is typically handled in a more native fashion in the browser as compared to what you can accomplish via Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Web Browser Font Rendering is the New Edge Case</title>
+      <link>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</link>
+      <pubDate>Mon, 13 Oct 2014 01:48:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</guid>
+      <description>In the early days of the web, designers and developers relied upon visitors to the sites they were developing to have their chosen font pre-installed on their computers so that their web browser of choice would be able to properly render the selected font. As quickly became obvious, there is a wide variety of fonts installed across all computers worldwide, so this was not an achievable scenario, especially when print level typography was desired.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Background Scrolling on Internet Explorer is Not Smooth</title>
+      <link>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</link>
+      <pubDate>Thu, 04 Sep 2014 00:48:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</guid>
+      <description>One of the pleasures of working on a website that is using some of the latest technologies is that you often run into strange compatability issues that only affect one browser or another, and many of the forums have little to no information about how to properly address the issues. Parallax scrolling is a technique that has been around for a while now, highlighted by Apple&amp;rsquo;s own iPhone 5s card-esque scrolling on their homepage, among others.</description>
+    </item>
+    
+    <item>
+      <title>IE 10 Text Box Clear Button Covers Text</title>
+      <link>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</link>
+      <pubDate>Thu, 07 Aug 2014 02:36:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</guid>
+      <description>When working on a project that required quantities to be entered into a text box and displayed aligned to the right of the text box, I ran across a peculiar issue. If the text box had focus, a new button appeared in the text box that would allow the user to completely clear the contents of the text box. When focus moved to another element on the page, the clear button disappeared, but part of the right side of the text that was previously displayed in the text box disappeared as well.</description>
+    </item>
+    
+    <item>
+      <title>Window.Open Causes Browser Compatibilty Issues</title>
+      <link>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</link>
+      <pubDate>Wed, 21 May 2014 01:52:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</guid>
+      <description>One of the things that always annoys me as a web developer is when native browser functions that are accesible from JavaScript do not share the same function signature. One perfect example of this is the window.open function. When you are using non-Microsoft browsers such as Firefox and Chrome, you are able to make a call something like this window.open(url, &#39;window name&#39;, &#39;dimensions or other settings&#39;);. The window name parameter is important because it allows you to open multiple links in the same external window/tab.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Site Speed is a bit Unreliable</title>
+      <link>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</link>
+      <pubDate>Mon, 19 May 2014 14:21:29 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</guid>
+      <description>Google Analytics will now allow site owners to track the performance of their websites with real live traffic. This is a nice feature that lets you understand just how long it takes for the average visitor to your site to see the fully complete version of your website. While this sounds like a great tool that will give you an accurate view of yoru website&amp;rsquo;s performance, it does not tell the full story.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Web Development Is the New Internet Explorer 6</title>
+      <link>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</link>
+      <pubDate>Mon, 12 May 2014 17:25:30 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</guid>
+      <description>Developing a website that works well across devices and browsers is an excersize in playing Whack-A-Mole. Once you get one browser working on a desktop browser, you go to the next browser and find that not everything works the same way. In 2014, it seems that there aren&amp;rsquo;t that many differences in functionality between desktop browsers, but that all changes once you start making a responsive website that must handle mobile devices as well as it does desktop browsers.</description>
+    </item>
+    
+    <item>
+      <title>Can Legacy Internet Explorer Go Away Already?</title>
+      <link>https://thegeekspeaks.net/post/2014-04-02-can-legacy-internet-explorer-go-away-already/</link>
+      <pubDate>Wed, 02 Apr 2014 00:56:52 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-02-can-legacy-internet-explorer-go-away-already/</guid>
+      <description>For years, Internet Explorer was a four-letter word around web developers. Recently, Microsoft has stepped up their game when it comes to their web browser. I almost have to pinch myself to make sure I&amp;rsquo;m not dreaming when I type this, but Internet Explorer 10 and 11 are decent and modern web browsers that many websites don&amp;rsquo;t have to do anything special to support.
+However, Internet Explorer 9 and before are another story.</description>
+    </item>
+    
+    <item>
+      <title>jQuery.hover Issues in Internet Explorer on Windows 7</title>
+      <link>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</link>
+      <pubDate>Thu, 27 Mar 2014 01:45:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</guid>
+      <description>When creating a new mega-dropdown menu for a site I was working on, I used jQuery&amp;rsquo;s .hover event to trigger which content the menu was displayed. This seemed to work as expected in most browsers that I tested in, except for one, Internet Explorer. Unfortunately, it wasn&amp;rsquo;t even in every instance of Internet Explorer. ##Windows 7 After Windows Vista came out as one of the biggest duds that the world has ever seen, Windows 7 was a ringing success.</description>
+    </item>
+    
+  </channel>
+</rss>

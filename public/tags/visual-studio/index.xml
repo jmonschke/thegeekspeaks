@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visual-studio on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/visual-studio/</link>
+    <description>Recent content in visual-studio on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Sep 2014 00:53:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/visual-studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visual Studio 2013 EditorPackage Did Not Load Correctly</title>
+      <link>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</link>
+      <pubDate>Tue, 02 Sep 2014 00:53:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</guid>
+      <description>One of the things that continually conspires to drive me away from Microsoft products and towards those that are free and open source are the random bugs that pop up from time to time in their incredibly expensive software. The other day, I had to restart my Windows development system and discovered I had an issue when I tried to start Visual Studio 2013. When Visual Studio tried to start and open any files that had been previously open or that I wanted to open for the first time, I got this error message: The ‘Microsoft.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>management on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/management/</link>
+    <description>Recent content in management on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2016 04:51:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do you handle a developer that doesn&#39;t play by the rules?</title>
+      <link>https://thegeekspeaks.net/post/2016-02-20-how-do-you-handle-a-developer-that-doesnt-play-by-the-rules/</link>
+      <pubDate>Sat, 20 Feb 2016 04:51:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-02-20-how-do-you-handle-a-developer-that-doesnt-play-by-the-rules/</guid>
+      <description>Software development teams are fickle groups. It seems everyone has their own pet peeves that set them off, and a group that is cohesive and functioning well can quickly turn into one that shows little output for the time spent working.
+In order to create and nurture a software development team takes leadership that understands all of the idiosyncrasies of their team members, and ensure that no one member derails the rest of the team.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Wide To Narrow</title>
+      <link>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</link>
+      <pubDate>Mon, 30 Mar 2015 01:46:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</guid>
+      <description>If you consider the path that a user takes through your website from landing page to successful conversion, you can think of the number of users that make it to each point along the way to a successful conversion as similarly shaped to that of a funnel. In a typical setup, you may have a very small percentage of your users make it to a successful conversion, but there are several areas along the way that either improve the chances the user will convert or decrease those chances.</description>
+    </item>
+    
+    <item>
+      <title>Do you have too many big balls?</title>
+      <link>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</link>
+      <pubDate>Thu, 23 Oct 2014 01:43:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</guid>
+      <description>Managing a software development team can be a difficult task when everything is moving along exactly as expected. When you add in the paradigm shift of Agile Software Development with Scrum, management doesn&amp;rsquo;t always have the same insights into what makes up an efficient use of a development team&amp;rsquo;s time. For the rest of this post, lets assume that we are working with a 2 week sprint, with the first day half-used for sprint planning, and the last day half used for the sprint retrospective.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Do SCRUM Poorly</title>
+      <link>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</link>
+      <pubDate>Tue, 10 Jun 2014 01:49:43 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</guid>
+      <description>As a developer that frequently leads projects and operates in various leadership roles depending on the current project lineup, the Agile development methodology is a welcome change from the Waterfall and Software Development Life Cycle approaches to software development. SCRUM is the specific type of Agile development that I have participated in at a few different workplaces, and it seems to work well if implemented properly. However, there are several ways to make a SCRUM development team perform more poorly than it ought.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development - Fail Fast or Go Home</title>
+      <link>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</link>
+      <pubDate>Mon, 02 Jun 2014 02:07:32 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</guid>
+      <description>Defensive Development is a programming practice that is frequently misunderstood, but is nevertheless a critical practice to follow when working in many environments. I have seen articles written that argue that defensive development simply causes nonsensical null checks to be written, and as a result of seeing people writing bad code defensively, argues that no one should practice defensive development. There are other articles that, like many things in software development, argue that you should always use defensive development for everything.</description>
+    </item>
+    
+    <item>
+      <title>Micromanagement Ruins Teams</title>
+      <link>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</link>
+      <pubDate>Wed, 07 May 2014 01:49:13 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</guid>
+      <description>It seems that the management thinking these days is that managers should empower their employees to make decisions and implement the actions behind these decisions. This works great when you have a team and management that has mutual trust with a mutual goal. However, when the manager does not trust the members of the team, or thinks that they have to be the one to make every decision or have input into every task, the empowerment disappears.</description>
+    </item>
+    
+  </channel>
+</rss>

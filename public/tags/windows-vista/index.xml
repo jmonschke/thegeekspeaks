@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows-vista on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/windows-vista/</link>
+    <description>Recent content in windows-vista on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 May 2014 02:10:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/windows-vista/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magento Version 2, is it just Microsoft Windows Longhorn AKA Vista?</title>
+      <link>https://thegeekspeaks.net/post/2014-05-02-magento-version-2-is-it-just-microsoft-windows-longhorn-aka-vista/</link>
+      <pubDate>Fri, 02 May 2014 02:10:03 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-02-magento-version-2-is-it-just-microsoft-windows-longhorn-aka-vista/</guid>
+      <description>Magento version 2 was first introduced in 2010. It is now almost halfway through 2014, and the public has not seen any alpha or beta release of Magento version 2 as of yet. The new version of Magento promised to replace PrototypeJS and Scriptaculus with jQuery as well as reorganize the database schema to remove the slow EAV tables and migrate to a bit of a flatter table structure. However, it seems that the latest updates on the direction for Magento 2 show that the database schema will not be changed much after all.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magento2 on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/magento2/</link>
+    <description>Recent content in magento2 on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2017 20:05:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/magento2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Best Way to Learn Magento 2</title>
+      <link>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</link>
+      <pubDate>Wed, 25 Jan 2017 20:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</guid>
+      <description>The very best way that I have found to figure out how to develop with Magento 2 is to write unit tests for a module. It not only requires you to figure out how to work with phpunit, but to also look at the existing codebase for examples of how the Magento 2 team works with the same objects and handles the same kinds of tasks. Once I wrote a full set of unit tests for my first Magento 2 module, I felt that I had a much better grasp of the workings of Magento 2 than I did before I started writing the unit tests.</description>
+    </item>
+    
+    <item>
+      <title>Magento 2, Docker, and macOS don&#39;t mix</title>
+      <link>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</guid>
+      <description>I was excited when the Docker team launched their better-integrated solution for running Docker containers on OS X this past summer. It allowed our team to switch from using full Vagrant/Virtual Box based virtual machines for local development to a much lighter-weight solution. Compared to the Vagrant setup, Magento 1 seemed to run a bit faster and require fewer resources when running in Docker.
+However, when trying to setup a similar environment with Magento 2, the performance numbers didn&amp;rsquo;t quite line up when using a macOS host.</description>
+    </item>
+    
+    <item>
+      <title>Magento 2.1.3 Upgrade Static Files Not Loading</title>
+      <link>https://thegeekspeaks.net/post/2016-12-21-magento-213-upgrade-static-files-not-loading/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-12-21-magento-213-upgrade-static-files-not-loading/</guid>
+      <description>Magento just released an update to the latest version of their ecommerce platform to up the version from 2.1.2 to 2.1.3. There are a few differences between the versions, and one of those differences relates to the handling of the static files and what method is used to bust the cache of browsers to ensure users get the latest code whenever changes are deployed. Unfortunately, this upgrade by default breaks sites that aren&amp;rsquo;t aware of the changes needed to make this work properly.</description>
+    </item>
+    
+  </channel>
+</rss>

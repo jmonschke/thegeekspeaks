@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microsoft on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/microsoft/</link>
+    <description>Recent content in microsoft on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2015 01:25:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Run Multiple Python mod_wsgi Websites With Apache On Windows</title>
+      <link>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</link>
+      <pubDate>Thu, 19 Mar 2015 01:25:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</guid>
+      <description>Yes, this sounds completely crazy, but there is a semi-valid need to do this, unfortunately. However, when you need to run multiple Python websites on Apache on Windows via mod_wsgi, it quickly becomes apparent that using the typical &amp;lt;VirtualHost&amp;gt; configuration options do not work as expected.
+When you try to do it with a &amp;lt;VirtualHost&amp;gt; configuration, you will be unable to setup a separate WSGIPythonPath configuration setting per virtual host, as that configuration directive is not allowed within a &amp;lt;VirtualHost&amp;gt; node.</description>
+    </item>
+    
+    <item>
+      <title>Bing ignores robots.txt</title>
+      <link>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</link>
+      <pubDate>Sat, 03 Jan 2015 06:23:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</guid>
+      <description>One of the long-standing conventions on the web is that automated search engine crawlers should follow a set of rules about what pages they should and should not visit and index. For many crawlers or bots, all you have to do is properly setup your robots.txt file, and viola, you control what the bot will and will not visit. The GoogleBot tends to behave well according to what is in the robots.</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s iPhone Announcement is a Big Deal for T-Mobile</title>
+      <link>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</link>
+      <pubDate>Fri, 19 Sep 2014 01:48:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</guid>
+      <description>Every year, we are treated to a big show from Apple about what the next iPhone will be like, and how magical it actually is. In case you have been living under a rock, this major Apple annoucement is one of the largest news-making fancy press-conferences you will see these days. It used to be this way when Microsoft would launch a new operating system, remember that launch announcement and launch party for Windows XP?</description>
+    </item>
+    
+    <item>
+      <title>Parallax Background Scrolling on Internet Explorer is Not Smooth</title>
+      <link>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</link>
+      <pubDate>Thu, 04 Sep 2014 00:48:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</guid>
+      <description>One of the pleasures of working on a website that is using some of the latest technologies is that you often run into strange compatability issues that only affect one browser or another, and many of the forums have little to no information about how to properly address the issues. Parallax scrolling is a technique that has been around for a while now, highlighted by Apple&amp;rsquo;s own iPhone 5s card-esque scrolling on their homepage, among others.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2013 EditorPackage Did Not Load Correctly</title>
+      <link>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</link>
+      <pubDate>Tue, 02 Sep 2014 00:53:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</guid>
+      <description>One of the things that continually conspires to drive me away from Microsoft products and towards those that are free and open source are the random bugs that pop up from time to time in their incredibly expensive software. The other day, I had to restart my Windows development system and discovered I had an issue when I tried to start Visual Studio 2013. When Visual Studio tried to start and open any files that had been previously open or that I wanted to open for the first time, I got this error message: The ‘Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>IE 10 Text Box Clear Button Covers Text</title>
+      <link>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</link>
+      <pubDate>Thu, 07 Aug 2014 02:36:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</guid>
+      <description>When working on a project that required quantities to be entered into a text box and displayed aligned to the right of the text box, I ran across a peculiar issue. If the text box had focus, a new button appeared in the text box that would allow the user to completely clear the contents of the text box. When focus moved to another element on the page, the clear button disappeared, but part of the right side of the text that was previously displayed in the text box disappeared as well.</description>
+    </item>
+    
+    <item>
+      <title>Always Use Automated Integration Testing</title>
+      <link>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</link>
+      <pubDate>Tue, 08 Jul 2014 02:34:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</guid>
+      <description>QA or Quality Assurance of a software project is often the area of software development that is most neglected. Typically developers avoid software testing like their lives depended on it. While a basic level of testing is required for a single scenario to validate that your code &amp;ldquo;works&amp;rdquo;, the level of testing that is required to ensure that all users have a good user experience across all targeted platforms is something that a developer seems to think is beneath them.</description>
+    </item>
+    
+    <item>
+      <title>How Not to Use SQL Transactions</title>
+      <link>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</link>
+      <pubDate>Fri, 11 Apr 2014 02:20:17 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</guid>
+      <description>SQL Transactions allow you to isolate atomic operations so that you can ensure that a third party does not update the data affected during the atomic operation protected by the transaction. An example of an operation that you would want to protect with a SQL Transaction would be transferring funds from one bank account to another. The first step of this operation would be to subtract the funds from bank account A.</description>
+    </item>
+    
+    <item>
+      <title>Unexpected Results with SQL Server and Python pyodbc</title>
+      <link>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</link>
+      <pubDate>Thu, 10 Apr 2014 00:40:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</guid>
+      <description>Using the Microsoft SQL Server Management Studio (SSMS) with SQL Server hides many of the API complications that can sometimes arise when working with SQL Server. One specific example would be when using Python on Windows with the pyodbc driver. If you have an update statement that performs a simple update to a status column and a datetime column, you can have some unexpected results.
+Lets say that the table you are running the update against has a before update trigger and an after update trigger configured on it.</description>
+    </item>
+    
+    <item>
+      <title>SQL Server Transaction Log Exponential Growth</title>
+      <link>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</link>
+      <pubDate>Wed, 09 Apr 2014 01:35:42 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</guid>
+      <description>There are few things more frustrating than seemingly random issues that crop up in software when configuration changes occur. One such occurrence is when you migrate your databases from Microsoft SQL Server 2012 Standard Edition to Microsoft SQL Server 2012 Enterprise Edition with High Availability and the transaction log suddenly begins to experience exponential growth without ceasing.
+It turns out that when using Python and pyodbc on Windows to access SQL Server, there can be some unpredictable results.</description>
+    </item>
+    
+  </channel>
+</rss>

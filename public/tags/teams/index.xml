@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teams on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/teams/</link>
+    <description>Recent content in teams on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jul 2014 02:34:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/teams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Always Use Automated Integration Testing</title>
+      <link>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</link>
+      <pubDate>Tue, 08 Jul 2014 02:34:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</guid>
+      <description>QA or Quality Assurance of a software project is often the area of software development that is most neglected. Typically developers avoid software testing like their lives depended on it. While a basic level of testing is required for a single scenario to validate that your code &amp;ldquo;works&amp;rdquo;, the level of testing that is required to ensure that all users have a good user experience across all targeted platforms is something that a developer seems to think is beneath them.</description>
+    </item>
+    
+    <item>
+      <title>Micromanagement Ruins Teams</title>
+      <link>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</link>
+      <pubDate>Wed, 07 May 2014 01:49:13 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</guid>
+      <description>It seems that the management thinking these days is that managers should empower their employees to make decisions and implement the actions behind these decisions. This works great when you have a team and management that has mutual trust with a mutual goal. However, when the manager does not trust the members of the team, or thinks that they have to be the one to make every decision or have input into every task, the empowerment disappears.</description>
+    </item>
+    
+  </channel>
+</rss>

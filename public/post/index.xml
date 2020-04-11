@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/post/</link>
+    <description>Recent content in Posts on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2017 21:05:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Should I Use Magento 2 Helpers?</title>
+      <link>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</link>
+      <pubDate>Mon, 06 Feb 2017 21:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</guid>
+      <description>One of the objects that developers familiar with Magento 1 will instantly recognize are helpers. When working with Magento 1, helpers proved to be a special type of object that looked similar in invocation to a singleton, but in reality it was more of a lazy way to share functionality between multiple locations. The main benefit to using a helper in Magento 1 is that it made it easier to access the __ function for translations and it was directly accessible from the template files .</description>
+    </item>
+    
+    <item>
+      <title>The Magento 2 Learning Curve</title>
+      <link>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</link>
+      <pubDate>Fri, 03 Feb 2017 21:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</guid>
+      <description>The learning curve for various products and platforms tends to vary greatly depending on the complexity of the system you are learning. For example, people that understand how to use the internet and communicate online via email or Facebook are generally able to figure out how to work with Twitter without much of an issue. On the other hand, when you are looking at the learning curve for designing airplanes that are able to carry people, it should be much more difficult to understand how to start as compared to starting to use Twitter.</description>
+    </item>
+    
+    <item>
+      <title>The Best Way to Learn Magento 2</title>
+      <link>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</link>
+      <pubDate>Wed, 25 Jan 2017 20:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-01-25-the-best-way-to-learn-magento-2/</guid>
+      <description>The very best way that I have found to figure out how to develop with Magento 2 is to write unit tests for a module. It not only requires you to figure out how to work with phpunit, but to also look at the existing codebase for examples of how the Magento 2 team works with the same objects and handles the same kinds of tasks. Once I wrote a full set of unit tests for my first Magento 2 module, I felt that I had a much better grasp of the workings of Magento 2 than I did before I started writing the unit tests.</description>
+    </item>
+    
+    <item>
+      <title>Magento 2, Docker, and macOS don&#39;t mix</title>
+      <link>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</guid>
+      <description>I was excited when the Docker team launched their better-integrated solution for running Docker containers on OS X this past summer. It allowed our team to switch from using full Vagrant/Virtual Box based virtual machines for local development to a much lighter-weight solution. Compared to the Vagrant setup, Magento 1 seemed to run a bit faster and require fewer resources when running in Docker.
+However, when trying to setup a similar environment with Magento 2, the performance numbers didn&amp;rsquo;t quite line up when using a macOS host.</description>
+    </item>
+    
+    <item>
+      <title>Weird Errors Running Magento 2 Unit Tests</title>
+      <link>https://thegeekspeaks.net/post/2016-12-28-weird-errors-running-magento-2-unit-tests/</link>
+      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-12-28-weird-errors-running-magento-2-unit-tests/</guid>
+      <description>One of the great promises with the release of Magento 2 was that the core codebase would ship with unit tests built in so that you could have some way to be able to tell if you did something to break the site long before you ever pushed your code to production. In reality, though, since you should never directly edit the core files, instead only override their functionality, as a Magento 2 developer, there is little that you should be able to do that will cause the shipped tests to fail.</description>
+    </item>
+    
+    <item>
+      <title>Magento 2.1.3 Upgrade Static Files Not Loading</title>
+      <link>https://thegeekspeaks.net/post/2016-12-21-magento-213-upgrade-static-files-not-loading/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-12-21-magento-213-upgrade-static-files-not-loading/</guid>
+      <description>Magento just released an update to the latest version of their ecommerce platform to up the version from 2.1.2 to 2.1.3. There are a few differences between the versions, and one of those differences relates to the handling of the static files and what method is used to bust the cache of browsers to ensure users get the latest code whenever changes are deployed. Unfortunately, this upgrade by default breaks sites that aren&amp;rsquo;t aware of the changes needed to make this work properly.</description>
+    </item>
+    
+    <item>
+      <title>What is Jekyll, and where have I been?</title>
+      <link>https://thegeekspeaks.net/post/2016-12-13-what-is-jekyll-and-where-have-i-been/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-12-13-what-is-jekyll-and-where-have-i-been/</guid>
+      <description>It has been a while since the last time this blog was updated, and I thought it was time that changed. The plan is to make sure to regularly update the site so that it doesn&amp;rsquo;t become completely stale, but its obvious the best of intentions don&amp;rsquo;t work unless they do, so here&amp;rsquo;s to something.
+I&amp;rsquo;m sure if you have seen the site before, you will notice that the design has changed to look a bit different than it was in the past.</description>
+    </item>
+    
+    <item>
+      <title>The Scrum Daily Standup</title>
+      <link>https://thegeekspeaks.net/post/2016-07-25-the-scrum-daily-standup/</link>
+      <pubDate>Mon, 25 Jul 2016 05:08:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-07-25-the-scrum-daily-standup/</guid>
+      <description>One of the hallmarks of the Scrum method of agile software development is a daily meeting, or &amp;ldquo;standup&amp;rdquo;. The purpose of the Scrum Daily Standup is to make sure the Scrum team is aware of what tasks the other members of the team are working on as well as asking for and offering assistance to other members of the team as needed. The Scrum Daily Standup is NOT a meeting to gather the project&amp;rsquo;s status.</description>
+    </item>
+    
+    <item>
+      <title>How do you handle a developer that doesn&#39;t play by the rules?</title>
+      <link>https://thegeekspeaks.net/post/2016-02-20-how-do-you-handle-a-developer-that-doesnt-play-by-the-rules/</link>
+      <pubDate>Sat, 20 Feb 2016 04:51:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2016-02-20-how-do-you-handle-a-developer-that-doesnt-play-by-the-rules/</guid>
+      <description>Software development teams are fickle groups. It seems everyone has their own pet peeves that set them off, and a group that is cohesive and functioning well can quickly turn into one that shows little output for the time spent working.
+In order to create and nurture a software development team takes leadership that understands all of the idiosyncrasies of their team members, and ensure that no one member derails the rest of the team.</description>
+    </item>
+    
+    <item>
+      <title>SCRUM Sprint Planning Gone Wrong</title>
+      <link>https://thegeekspeaks.net/post/2015-04-21-scrum-sprint-planning-gone-wrong/</link>
+      <pubDate>Tue, 21 Apr 2015 00:59:52 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-21-scrum-sprint-planning-gone-wrong/</guid>
+      <description>One of the things that is a hallmark of the SCRUM method of Agile development is that you have a unit of time during which you commit to accomplishing some amount of work before that unit of time has elapsed. In order to commit to how much work should be accomplished during the &amp;ldquo;sprint&amp;rdquo;, all members of the team meet at the beginning of each sprint for a sprint planning meeting.</description>
+    </item>
+    
+    <item>
+      <title>Handling Callbacks with a Depth-First Tree in JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</link>
+      <pubDate>Mon, 20 Apr 2015 01:34:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-20-handling-callbacks-with-a-depth-first-tree-in-javascript/</guid>
+      <description>One of the hardest things to do in JavaScript when working with complex data structures and a callback oriented platform is to know for sure when all of your callbacks have been fully executed. This issue came to light when working with a MongoDB datastore that was being used to store an infinitely-deep nested menu structure.
+This menu structure could be visualized as being a tree. In order to get the all of the needed menu items from this tree, a depth-first traversal of the tree was determined to be the easiest to track.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Use MongoDB For The Wrong Things</title>
+      <link>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</link>
+      <pubDate>Tue, 07 Apr 2015 01:39:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-07-dont-use-mongodb-for-the-wrong-things/</guid>
+      <description>The early phases of a greenfield project always seem to conjure up grand ideas of how to use the hottest new technologies to accomplish your goals. Many times, these grandiose plans give way to a more level-headed design discussion where more realistic technologies are adopted. However, there are a few times where the developer with the idea to use the hottest new technology is the one in charge, and ends up getting his way.</description>
+    </item>
+    
+    <item>
+      <title>Write Your Own Compass Mixin</title>
+      <link>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</link>
+      <pubDate>Mon, 06 Apr 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-06-write-your-own-compass-mixin/</guid>
+      <description>As a developer working with CSS, one of the things that I find a bit troubling is the amount of style definitions that I have to repeat over and over to achieve the design I desire. One of the basic tenets of software development is to utilize the DRY principle, otherwise known as Don&amp;rsquo;t Repeat Yourself. Fortunately, when you implement Compass and SASS in your project to generate your CSS, you have a way to avoid copy-paste programming.</description>
+    </item>
+    
+    <item>
+      <title>Social-Buttons.Com Spams Google Analytics</title>
+      <link>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</link>
+      <pubDate>Thu, 02 Apr 2015 02:06:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-02-social-buttons-com-spams-google-analytics/</guid>
+      <description>Typically when you see traffic in Google Analytics, you can be sure that it is legitimate traffic to your website. However, there are a few known spammers out there that successfully spam Google Analytics tracking codes with bogus visits, hoping that the Analytics users visit the site that is supposedly &amp;ldquo;referring&amp;rdquo; traffic. One such domain that is being used for this is Social-Buttons.com.
+I have just begun to see traffic in Google Analytics from Social-Buttons.</description>
+    </item>
+    
+    <item>
+      <title>Using The Ampersand With Compass</title>
+      <link>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</link>
+      <pubDate>Wed, 01 Apr 2015 00:41:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-04-01-using-the-ampersand-with-compass/</guid>
+      <description>While much of working with Compass to generate the CSS for your site is straightforward, there are a few ways to use Compass the provide great power, but are not as easy to understand at first glance. This article discusses one such way, hopefully making it easier to understand.
+The operator that we will be looking at first is the &amp;amp; operator. The &amp;amp; as part of a selector in Compass allows you to take the entire selector string at a higher nesting level than the &amp;amp; currently resides upon, and replace the &amp;amp; with that selector string.</description>
+    </item>
+    
+    <item>
+      <title>Compass Makes Writing CSS Fun Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</link>
+      <pubDate>Tue, 31 Mar 2015 00:40:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-31-compass-makes-writing-css-fun-again/</guid>
+      <description>One of the things that has always annoyed me about web development is that writing CSS generally becomes a task that has a major lack of the features that you would expect in a programming language, even one as simple as JavaScript. These features that would be wonderful to have when working with CSS are the ability to use variables to define a set of basic colors that are in use across the site in one place, and then use the variable name throughout the stylesheet.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Wide To Narrow</title>
+      <link>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</link>
+      <pubDate>Mon, 30 Mar 2015 01:46:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-30-optimize-wide-to-narrow/</guid>
+      <description>If you consider the path that a user takes through your website from landing page to successful conversion, you can think of the number of users that make it to each point along the way to a successful conversion as similarly shaped to that of a funnel. In a typical setup, you may have a very small percentage of your users make it to a successful conversion, but there are several areas along the way that either improve the chances the user will convert or decrease those chances.</description>
+    </item>
+    
+    <item>
+      <title>2 Ways To Find Current Directory in PHP Without Regular Expressions</title>
+      <link>https://thegeekspeaks.net/post/2015-03-27-2-ways-to-find-current-directory-in-php-without-regular-expressions/</link>
+      <pubDate>Fri, 27 Mar 2015 02:23:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-27-2-ways-to-find-current-directory-in-php-without-regular-expressions/</guid>
+      <description>There comes a time when you need to find the current directory in PHP, test to see if it is the directory that you expect it is, and take an action based on the test results. Obviously, the easiest way to get the current working directory in PHP is getcwd(). However, parsing the output of this function can provide some interesting challenges.
+While it is trivial to do this sort of search with a Regular Expression, I tend to look for a solution that is easier to understand its functionality without reaching for the reference books.</description>
+    </item>
+    
+    <item>
+      <title>Another Micro-Optimization Provides Useless Results</title>
+      <link>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</link>
+      <pubDate>Thu, 26 Mar 2015 03:38:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-26-another-micro-optimization-provides-useless-results/</guid>
+      <description>One of the things to remember about performance optimizations performed in isolation is that their results are rarely representative of real-world performance results. This article outlines the &amp;ldquo;findings&amp;rdquo; of the students at a couple of Canadian universities, and comes to the conclusion that string concatenation in memory is slower than writing the same total number of bytes to disk, one after the other.
+ String concatenation is a slow and CPU-heavy operation.</description>
+    </item>
+    
+    <item>
+      <title>Verify Magento User Access to Admin Functionality</title>
+      <link>https://thegeekspeaks.net/post/2015-03-25-verify-magento-user-access-to-admin-functionality/</link>
+      <pubDate>Wed, 25 Mar 2015 01:30:30 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-25-verify-magento-user-access-to-admin-functionality/</guid>
+      <description>When working with Magento, there will inevitably come a time where you need to manually check to see if the currently logged-in user has access to a specific piece of functionality as defined in the ACL settings. Personally, I have come across this situation more often when creating my own custom modules and their custom permissions, but they can be used to check the permissions of any module.
+As is so often the case, Alan Storm has documented the exact solution for this scenario.</description>
+    </item>
+    
+    <item>
+      <title>Laravel Removed The QuickStart For Version 5</title>
+      <link>https://thegeekspeaks.net/post/2015-03-24-laravel-removed-the-quickstart-for-version-5/</link>
+      <pubDate>Tue, 24 Mar 2015 01:14:22 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-24-laravel-removed-the-quickstart-for-version-5/</guid>
+      <description>To start out, I want to be clear that what follows should not be interpreted to be a criticism of the software framework that those that work on Laravel publish, nor an indictment of open-source software as a whole. Rather, it is a look at how some projects, open or closed source make it harder than it should be for new users/developers to utilize their terrific products.
+ It seems experts conveniently &amp;ldquo;forget&amp;rdquo; the tips and tricks and tribulations it takes to learn a new technology, covering it all with, &amp;ldquo;It&amp;rsquo;s just so easy&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Improves JavaScript Speeds Again</title>
+      <link>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</link>
+      <pubDate>Mon, 23 Mar 2015 01:44:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-23-google-chrome-improves-javascript-speeds-again/</guid>
+      <description>One of the old rules of optimizing website load times for all browsers was that the browser didn&amp;rsquo;t begin to parse the downloaded JavaScript until each file was downloaded. Starting with Chrome 41, Google has announced that this is no longer the case.
+In this announcement, Google has said that new versions of Chrome will begin parsing JavaScript as it is downloaded to the browser, even before the particular file&amp;rsquo;s download is complete.</description>
+    </item>
+    
+    <item>
+      <title>Google To Begin Rewarding Mobile-Friendly Websites</title>
+      <link>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</link>
+      <pubDate>Fri, 20 Mar 2015 04:22:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-20-google-to-begin-rewarding-mobile-friendly-websites/</guid>
+      <description>Google recently announced that beginning April 21, 2015, they would start slightly rewarding websites that are mobile-friendly at the expense of sites that are not. There are several things that Google looks at to determine whether or not a site is easy for a user on a mobile device to view and navigate. Some of the things that Google looks for include the following:
+ Fonts that are big enough to be legible Users don&amp;rsquo;t have to scroll left and right to see content Links are big enough and have enough space around them to be clickable with a touch of a finger.</description>
+    </item>
+    
+    <item>
+      <title>Run Multiple Python mod_wsgi Websites With Apache On Windows</title>
+      <link>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</link>
+      <pubDate>Thu, 19 Mar 2015 01:25:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-19-run-multiple-python-mod_wsgi-websites-with-apache-on-windows/</guid>
+      <description>Yes, this sounds completely crazy, but there is a semi-valid need to do this, unfortunately. However, when you need to run multiple Python websites on Apache on Windows via mod_wsgi, it quickly becomes apparent that using the typical &amp;lt;VirtualHost&amp;gt; configuration options do not work as expected.
+When you try to do it with a &amp;lt;VirtualHost&amp;gt; configuration, you will be unable to setup a separate WSGIPythonPath configuration setting per virtual host, as that configuration directive is not allowed within a &amp;lt;VirtualHost&amp;gt; node.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Reasons To Test Your Website Across Browsers</title>
+      <link>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</link>
+      <pubDate>Wed, 18 Mar 2015 01:29:45 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-18-top-5-reasons-to-test-your-website-across-browsers/</guid>
+      <description>I would hope that those of you taking the time to read this posting would have some idea of why you should perform some level of testing of the software and websites you create. However, I am keenly aware that some management types don&amp;rsquo;t always understand the importance of testing until an untested &amp;ldquo;feature&amp;rdquo; appears in the wild, frustrating all that run across it.
+ Ensure Cross Browser Compatibility- Unless you develop a website for internal usage only, where you are able to successfully restrict users to a specific version of a specific browser, Cross Browser Compatibility ensures your site functions well for the greatest number of users.</description>
+    </item>
+    
+    <item>
+      <title>When Is Enough CSS Enough?</title>
+      <link>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</link>
+      <pubDate>Tue, 17 Mar 2015 02:13:04 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-17-when-is-enough-css-enough/</guid>
+      <description>One of the major pushes in web development today is to try to do as much of the styling of a website as is possible from within the CSS of the site. The idea behind this is that when you do so, you remove styling responsibilities from your JavaScript and HTML content, resulting in a much better separation of concerns. The other aspect of this is that CSS styling is typically handled in a more native fashion in the browser as compared to what you can accomplish via Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Google Code Shutting Down</title>
+      <link>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</link>
+      <pubDate>Mon, 16 Mar 2015 02:40:08 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-16-google-code-shutting-down/</guid>
+      <description>Google just recently announced that they are going to begin the process of shutting down their Google Code project hosting service. In the blog post announcing that they were shuttering the service, they let it slip that even Google had quit using Google Code for their project hosting, instead transitioning thousands of their projects to GitHub. Google seemingly blames the fact that GitHub and BitBucket handle project hosting better than Google does as the main reason that they are discontinuing the service.</description>
+    </item>
+    
+    <item>
+      <title>Never Explicitly Trust Software Because It Is Open-Source</title>
+      <link>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</link>
+      <pubDate>Fri, 13 Mar 2015 02:33:22 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-13-never-explicitly-trust-software-because-it-is-open-source/</guid>
+      <description>One of the major ideas behind open source projects is that allowing anyone that wants to view the source code of a project to be able to do so should make bugs and security weaknesses easy to find. While this did not work so well with OpenSSL and its various bugs that have been exposed recently, I do have an example where it worked extremely well.
+Magento is an eCommerce platform that has two separate editions.</description>
+    </item>
+    
+    <item>
+      <title>The Number 1 Cause of the Not Invented Here Syndrome</title>
+      <link>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</link>
+      <pubDate>Thu, 12 Mar 2015 02:44:18 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-12-the-number-1-cause-of-the-not-invented-here-syndrome/</guid>
+      <description>One of the quickest ways to get a new internal tool bootstrapped is to utilize an existing design, making slight adjustments to ensure the design matches the requirements of the current project. Instead of using another internal tool as the basis for the new design, I used a design that was purchased specifically for this project.
+This particular design was unique in that there were multiple working examples using AJAX, pure HTML, and AngularJS.</description>
+    </item>
+    
+    <item>
+      <title>Firefox 36 Has A Massive Memory Leak</title>
+      <link>https://thegeekspeaks.net/post/2015-03-11-firefox-36-has-a-massive-memory-leak/</link>
+      <pubDate>Wed, 11 Mar 2015 03:22:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-11-firefox-36-has-a-massive-memory-leak/</guid>
+      <description>While looking through our TrackJS logs the other day, I ran across a peculiar error message coming from Firefox 36 on Windows 7. The error message was simply out of memory. It seemed that the pesky local storage issue had reappeared mysteriously. However, with a quick check of the codebase, I verified that no one had accidentally reverted those fixes.
+With that possible cause ruled out, I turned to a developer&amp;rsquo;s best friend, Google, for solutions.</description>
+    </item>
+    
+    <item>
+      <title>Authenticate Magento Admin Users</title>
+      <link>https://thegeekspeaks.net/post/2015-03-10-authenticate-magento-admin-users/</link>
+      <pubDate>Tue, 10 Mar 2015 01:23:43 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-10-authenticate-magento-admin-users/</guid>
+      <description>Magento&amp;rsquo;s admin interface allows you to do the vast majority of everything that you would ever want to do to manage your eCommerce website. However, there are times when the rigidity of the framework makes it difficult for developers to appropriately customize a layout.
+One of the things that we have done to combat these limitations is to create a new administration section of the website specifically for the use of developers and other advanced administrators of the site.</description>
+    </item>
+    
+    <item>
+      <title>The Top Sign You Hired The Wrong Developer</title>
+      <link>https://thegeekspeaks.net/post/2015-03-09-the-top-sign-you-hired-the-wrong-developer/</link>
+      <pubDate>Mon, 09 Mar 2015 03:39:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-09-the-top-sign-you-hired-the-wrong-developer/</guid>
+      <description>I have been a part of the interview process at a few different companies now, and there is one thing that I have seen correlate completely with how useless a developer hire is. If the hiring manager ever brings me a resume that mentions how many conferences a candidate attends or gives talks at, I will immediately rule that candidate out for the purposes of the development position I am interviewing for.</description>
+    </item>
+    
+    <item>
+      <title>The Amazing Magento Configuration</title>
+      <link>https://thegeekspeaks.net/post/2015-03-06-the-amazing-magento-configuration/</link>
+      <pubDate>Fri, 06 Mar 2015 03:17:46 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-06-the-amazing-magento-configuration/</guid>
+      <description>At the heart of every piece of PHP in Magento is the XML configuration files that tell core Magento code where to find functions and what to do with them. It seems to be the biggest hurdle that most developers face when they begin developing with Magento.
+When going through a bit of code recently, I discovered something in the configuration that looks like it should have never worked, but amazingly enough, has worked without issue the entire time it has been in place.</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Be a Dunce, Save Your Orders</title>
+      <link>https://thegeekspeaks.net/post/2015-03-05-dont-be-a-dunce-save-your-orders/</link>
+      <pubDate>Thu, 05 Mar 2015 03:55:45 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-05-dont-be-a-dunce-save-your-orders/</guid>
+      <description>There are some gotchas that you think that you will always see coming. One such gotcha is the need to save an object to the datastore to persist any changes you may have made to that object.
+While it seems like a reasonable concept at the base level, there are times that the need to save an object completely escapes your mind. It seems that for many non-developers, this occurs when they have been working a long time on a file, typically a Microsoft Word document, shortly before their computer blue screens, losing all of their work.</description>
+    </item>
+    
+    <item>
+      <title>Magento&#39;s preDispatch Observer</title>
+      <link>https://thegeekspeaks.net/post/2015-03-04-magentos-predispatch-observer/</link>
+      <pubDate>Wed, 04 Mar 2015 03:10:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-04-magentos-predispatch-observer/</guid>
+      <description>One of the decisions that always seems to arise when adding functionality to a Magento website is what the best strategy is for doing so. Should you override the controller or function, edit it in place, or use an observer to listen for a particular event to occur.
+It just so happens that if you want to make sure that you have some sort of validation logic that runs before a particular controller action is executed, the easiest way to implement it is via a preDispatch observer.</description>
+    </item>
+    
+    <item>
+      <title>Avoid &#39;Persistent storage maximum size reached&#39; in Firefox</title>
+      <link>https://thegeekspeaks.net/post/2015-03-03-avoid-persistent-storage-maximum-size-reached-in-firefox/</link>
+      <pubDate>Tue, 03 Mar 2015 04:37:37 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-03-avoid-persistent-storage-maximum-size-reached-in-firefox/</guid>
+      <description>One of the nice tools out there for tracking down issues that your website&amp;rsquo;s visitors are having is TrackJS. We started noticing the other day that we were getting overwhelmed by errors with the text Persistent storage maximum size reached for our Magento site. When we looked further into the issue, it quickly became obvious that all of the errors originated from a single user that was running Firefox.
+It quickly became obvious that there was a single user that had exhausted their localStorage resources on their browser, but why was it only one user?</description>
+    </item>
+    
+    <item>
+      <title>Stop Wanting and Start Choosing</title>
+      <link>https://thegeekspeaks.net/post/2015-03-02-stop-wanting-and-start-choosing/</link>
+      <pubDate>Mon, 02 Mar 2015 04:32:37 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-03-02-stop-wanting-and-start-choosing/</guid>
+      <description>I am used to hearing people use phrases like &amp;ldquo;I want to be able to do X thing&amp;rdquo; or &amp;ldquo;I want to have X position at my company&amp;rdquo; when people are talking in generalities about their goals. I tend to do it often as well, especially when using &amp;ldquo;self-talk&amp;rdquo; to attempt to work on internal goals and desires. However, when reading a book from Paul Tough, How Children Succeed, one of the quotes that he references from Jonathan Rowson, a Scottish chess grand master who had written about the importance of emotion and psychology in chess success.</description>
+    </item>
+    
+    <item>
+      <title>Authorize.Net Directpost is Overly Complex</title>
+      <link>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</link>
+      <pubDate>Fri, 09 Jan 2015 04:14:16 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-09-authorize-net-directpost-is-overly-complex/</guid>
+      <description>One of the necessary evils that every ecommerce website that wants to accept credit card transactions must deal with is some sort of payment processing company. It just so happens that Authorize.net is one of the largest payment processors around, and they allow you to choose from a few different ways to integrate their payment processing functionality into your website. One of their ways is via DirectPost, which allows an eCommerce website to process a credit card transaction without the credit card information ever being sent through the website&amp;rsquo;s servers.</description>
+    </item>
+    
+    <item>
+      <title>Write Bulletproof JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</link>
+      <pubDate>Thu, 08 Jan 2015 03:30:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-08-write-bulletproof-javascript/</guid>
+      <description>While display issues have long been the bane of a web developer&amp;rsquo;s existence, current web development projects tend to have much more client side interactivity, focusing ever more attention on the reliability and resilience of the JavaScript you write to deliver the complete interactive experience. Many things can cause unexpected errors in your carefully crafted code.
+However, there are a few things that you can do to make sure that your site degrades gracefully and still provides a basic level of functionality when something in the browser goes wrong.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Can Have An Interesting Interpretation of Order</title>
+      <link>https://thegeekspeaks.net/post/2015-01-07-javascript-can-have-an-interesting-interpretation-of-order/</link>
+      <pubDate>Wed, 07 Jan 2015 02:14:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-07-javascript-can-have-an-interesting-interpretation-of-order/</guid>
+      <description>There is an interesting little quirk with the way in which JavaScript decides which function it should execute next. You see, while the JavaScript engine has a single thread of execution, it creates the illusion of multiple simultaneous processes running at once by utilizing a queue of functions to execute. This means that every time you make a call to a function in your JavaScript, there is no absolute guarantee that it will be the next piece of code run, as there may have been other events triggered that beat your custom function onto the execution queue.</description>
+    </item>
+    
+    <item>
+      <title>Avoid Custom mod_rewrite Rules with Varnish</title>
+      <link>https://thegeekspeaks.net/post/2015-01-06-avoid-custom-mod_rewrite-rules-with-varnish/</link>
+      <pubDate>Tue, 06 Jan 2015 02:45:59 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-06-avoid-custom-mod_rewrite-rules-with-varnish/</guid>
+      <description>When you are working on a website project running PHP on Apache, and you need to redirect a single device type to a different URL than the rest of your visitors, I&amp;rsquo;m sure the first thought that many of you would have is to utilize Apache&amp;rsquo;s mod_rewrite. It is a highly flexible URL rewriting engine that would allow you to rewrite with almost any combination of requirements to a just as complex set of URLs depending on the situation.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk about equality</title>
+      <link>https://thegeekspeaks.net/post/2015-01-05-lets-talk-about-equality/</link>
+      <pubDate>Mon, 05 Jan 2015 02:33:57 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-05-lets-talk-about-equality/</guid>
+      <description>Equality has been a major topic of discussion over the last few weeks. Whenever this topic comes up, I am always suprised how limited many people&amp;rsquo;s knowledge about true equality is. Relax everyone, I am talking about equality operators in JavaScript, and not the topic of national discussion recently.
+Thinking back to some interviews I have been a part of recently, it became extremely obvious how little most Front End Web Developers know about the JavaScript equaltiy operators.</description>
+    </item>
+    
+    <item>
+      <title>Top Job Applicants Never Stop Learning</title>
+      <link>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</link>
+      <pubDate>Sun, 04 Jan 2015 04:20:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-04-top-job-applicants-never-stop-learning/</guid>
+      <description>From time to time, my job allows me to be a part of the hiring process for our technical positions. Unfortunately for some of the applicants, I repeatedly come away from these interviews amazed at the responses I get from pretty standard and basic technical questions related to Web Development.
+Recently we were looking for a front-end web developer that was good at UX and design and proficient at HTML, CSS, and JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Bing ignores robots.txt</title>
+      <link>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</link>
+      <pubDate>Sat, 03 Jan 2015 06:23:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-03-bing-ignores-robots-txt/</guid>
+      <description>One of the long-standing conventions on the web is that automated search engine crawlers should follow a set of rules about what pages they should and should not visit and index. For many crawlers or bots, all you have to do is properly setup your robots.txt file, and viola, you control what the bot will and will not visit. The GoogleBot tends to behave well according to what is in the robots.</description>
+    </item>
+    
+    <item>
+      <title>Top 3 Reasons to Avoid Magento&#39;s getFirstItem()</title>
+      <link>https://thegeekspeaks.net/post/2014-10-31-top-3-reasons-to-avoid-magentos-getfirstitem/</link>
+      <pubDate>Fri, 31 Oct 2014 12:34:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-31-top-3-reasons-to-avoid-magentos-getfirstitem/</guid>
+      <description>Magento utilizes a lot of helper functions as well as the Zend Framework and ORM. While this makes things easier to develop, there are areas where this actually makes getting things done more difficult. The very first area that comes to mind is when you are trying to only retrieve a single record from the database. If you were to search Google for the proper way to do this, you would do the following, assuming $collection is your collection object.</description>
+    </item>
+    
+    <item>
+      <title>Do you have too many big balls?</title>
+      <link>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</link>
+      <pubDate>Thu, 23 Oct 2014 01:43:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-23-do-you-have-too-many-big-balls/</guid>
+      <description>Managing a software development team can be a difficult task when everything is moving along exactly as expected. When you add in the paradigm shift of Agile Software Development with Scrum, management doesn&amp;rsquo;t always have the same insights into what makes up an efficient use of a development team&amp;rsquo;s time. For the rest of this post, lets assume that we are working with a 2 week sprint, with the first day half-used for sprint planning, and the last day half used for the sprint retrospective.</description>
+    </item>
+    
+    <item>
+      <title>Web Browser Font Rendering is the New Edge Case</title>
+      <link>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</link>
+      <pubDate>Mon, 13 Oct 2014 01:48:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-13-web-browser-font-rendering-is-the-new-edge-case/</guid>
+      <description>In the early days of the web, designers and developers relied upon visitors to the sites they were developing to have their chosen font pre-installed on their computers so that their web browser of choice would be able to properly render the selected font. As quickly became obvious, there is a wide variety of fonts installed across all computers worldwide, so this was not an achievable scenario, especially when print level typography was desired.</description>
+    </item>
+    
+    <item>
+      <title>LocalStorage and Safari Weirdness</title>
+      <link>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</link>
+      <pubDate>Tue, 07 Oct 2014 01:44:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-07-localstorage-and-safari-weirdness/</guid>
+      <description>One of the technologies that has been intriguing to me for a while has been LocalStorage on the web browser. One of my first adventures into using persistent storage other than cookies on a web browser was the short-lived HTML 5 standard of the webSQL database. It turns out that it was simply a SQL Lite database that was accessible via JavaScript in all the WebKit browsers as well as Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s iPhone Announcement is a Big Deal for T-Mobile</title>
+      <link>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</link>
+      <pubDate>Fri, 19 Sep 2014 01:48:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-19-apples-iphone-announcement-is-a-big-deal-for-t-mobile/</guid>
+      <description>Every year, we are treated to a big show from Apple about what the next iPhone will be like, and how magical it actually is. In case you have been living under a rock, this major Apple annoucement is one of the largest news-making fancy press-conferences you will see these days. It used to be this way when Microsoft would launch a new operating system, remember that launch announcement and launch party for Windows XP?</description>
+    </item>
+    
+    <item>
+      <title>T-Mobile Buckles Under iPhone 6 PreOrders</title>
+      <link>https://thegeekspeaks.net/post/2014-09-18-t-mobile-buckles-under-iphone-6-preorders/</link>
+      <pubDate>Thu, 18 Sep 2014 03:44:09 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-18-t-mobile-buckles-under-iphone-6-preorders/</guid>
+      <description>When you are one of the major US carriers that allows its customers to pre-order the new Apple iPhone 6 and Apple iPhone 6 Plus, you would think that you would make sure your internal systems were up to snuff before the pre-order deadline. Well, as luck would have it, when September 12, 2014 rolled around, it turns out that many T-Mobile customers were out of luck when they went to try to pre-order the new iPhone 6 and iPhone 6 Plus.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Background Scrolling on Internet Explorer is Not Smooth</title>
+      <link>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</link>
+      <pubDate>Thu, 04 Sep 2014 00:48:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-04-parallax-background-scrolling-on-internet-explorer-is-not-smooth/</guid>
+      <description>One of the pleasures of working on a website that is using some of the latest technologies is that you often run into strange compatability issues that only affect one browser or another, and many of the forums have little to no information about how to properly address the issues. Parallax scrolling is a technique that has been around for a while now, highlighted by Apple&amp;rsquo;s own iPhone 5s card-esque scrolling on their homepage, among others.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Keep Your Nude Pictures Secure</title>
+      <link>https://thegeekspeaks.net/post/2014-09-03-5-ways-to-keep-your-nude-pictures-secure/</link>
+      <pubDate>Wed, 03 Sep 2014 02:47:06 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-03-5-ways-to-keep-your-nude-pictures-secure/</guid>
+      <description>With the recent revelation that there was a massive release of naked or revealing photographs of many female celebrities, it seems to be an important time to remind people how to make sure private photos and other information don&amp;rsquo;t get shared all around the internet without your permission. As a result, here are my top 5 ways to keep your nude pictures secure.
+  Don&amp;rsquo;t Take Nude Selfies - Yes, the best and easiest way to keep your naked selfies out of the sight for the public viewers on the internet is to never take a naked selfie in the first place.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio 2013 EditorPackage Did Not Load Correctly</title>
+      <link>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</link>
+      <pubDate>Tue, 02 Sep 2014 00:53:15 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-02-visual-studio-2013-editorpackage-did-not-load-correctly/</guid>
+      <description>One of the things that continually conspires to drive me away from Microsoft products and towards those that are free and open source are the random bugs that pop up from time to time in their incredibly expensive software. The other day, I had to restart my Windows development system and discovered I had an issue when I tried to start Visual Studio 2013. When Visual Studio tried to start and open any files that had been previously open or that I wanted to open for the first time, I got this error message: The ‘Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>Quality Comments Welcome</title>
+      <link>https://thegeekspeaks.net/post/2014-09-01-quality-comments-welcome/</link>
+      <pubDate>Mon, 01 Sep 2014 01:12:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-09-01-quality-comments-welcome/</guid>
+      <description>One of the things, among many, that has been missing from this blog from its beginning has been the inability for users to post comments to articles in the blog. Ghost was created to allow bloggers and writers to focus directly on writing with as few distractions as possible. This is in stark contrast to the way WordPress was created where anyone running a site had to be immersed in the functionality of WordPress themes and extensions to have a fully-functional website.</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Makes Web Developers Lazy</title>
+      <link>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</link>
+      <pubDate>Thu, 21 Aug 2014 01:16:01 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-21-google-chrome-makes-web-developers-lazy/</guid>
+      <description>This post may make me sound ancient in the world of web development, but here it comes anyway.
+ Like Microsoft, Google has decided to implement functionality in their dominant browser that is incompatible with the other major competing browsers.
+ When I first started developing websites professionally, ensuring a website worked for 99% of the site&amp;rsquo;s visitors was easy, relatively, as you only needed to make sure the site worked in Internet Explorer 6.</description>
+    </item>
+    
+    <item>
+      <title>PHP serialize/unserialize is faster than json_encode/json_decode</title>
+      <link>https://thegeekspeaks.net/post/2014-08-18-php-serializeunserialize-is-faster-than-json_encodejson_decode/</link>
+      <pubDate>Mon, 18 Aug 2014 01:18:13 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-18-php-serializeunserialize-is-faster-than-json_encodejson_decode/</guid>
+      <description>One of the things that I tend to focus on with a website is how quickly everything loads and executes. However, that focus can sometimes get to be a bit too narrow, only considering the performance of those resources that are required for the initial page load, and not for other dynamic aspects of the site. We recently implemented New Relic on one site, and gained much insight into how long each aspect of our site took to load, and how long each of the most popular requests took to execute.</description>
+    </item>
+    
+    <item>
+      <title>IE 10 Text Box Clear Button Covers Text</title>
+      <link>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</link>
+      <pubDate>Thu, 07 Aug 2014 02:36:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-08-07-ie-10-text-box-clear-button-covers-text/</guid>
+      <description>When working on a project that required quantities to be entered into a text box and displayed aligned to the right of the text box, I ran across a peculiar issue. If the text box had focus, a new button appeared in the text box that would allow the user to completely clear the contents of the text box. When focus moved to another element on the page, the clear button disappeared, but part of the right side of the text that was previously displayed in the text box disappeared as well.</description>
+    </item>
+    
+    <item>
+      <title>Hackers Exploiting Gullible Magento Site Administrators</title>
+      <link>https://thegeekspeaks.net/post/2014-07-29-hackers-exploiting-gullible-magento-site-administrators/</link>
+      <pubDate>Tue, 29 Jul 2014 01:15:26 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-29-hackers-exploiting-gullible-magento-site-administrators/</guid>
+      <description>Nexcess recently released a report of a Recent Exploit using Fake Magento Extensions was able to skim credit card information from affected Magento websites. While it seems that some of the stores were breached by correctly guessing simple admin usernames and passwords, others seemed to be the result of site administrators installing Magento Extensions that included backdoors that gave the hackers remote access to the website. Once the backdoor was installed, the hackers went on to modify core Magento files, ensuring that when a credit card order was placed, the credit card information would be saved to a text file that was hidden with an image file name extension .</description>
+    </item>
+    
+    <item>
+      <title>Links Not Working? Check AdBlock Plus</title>
+      <link>https://thegeekspeaks.net/post/2014-07-28-links-not-working-check-adblock-plus/</link>
+      <pubDate>Mon, 28 Jul 2014 01:48:07 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-28-links-not-working-check-adblock-plus/</guid>
+      <description>It turns out that the issues with useForcedLinkTracking are not isolated just to Safari&amp;rsquo;s popup blocker. Unfortunately, one of the most popular browser for both Chrome and Firefox, AdBlock Plus is subject to this issue as well.
+One of the things that the AdBlock Plus plugin does is attempt to intercept any and all link traffic to determine whether it was created from an actual mouse click or if it was triggered through JavaScript as part of a marketing campaign.</description>
+    </item>
+    
+    <item>
+      <title>Write Software for People, Not Computers</title>
+      <link>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</link>
+      <pubDate>Wed, 16 Jul 2014 01:42:55 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-16-write-software-for-people-not-computers/</guid>
+      <description>Throughout a normal day, I end up reading a lot of information about current issues in technology, and today is no different. There was a debate raging about whether or not high-level math was required for programmers that was sparked by this article by Sarah Mei Programming is not math. While it is an interesting topic, and, surprisingly, I mostly agree with Sarah on this issue, that is not the most important portion of her post.</description>
+    </item>
+    
+    <item>
+      <title>The Easiest Way to Create A Solution That Works</title>
+      <link>https://thegeekspeaks.net/post/2014-07-15-the-easiest-way-to-create-a-solution-that-works/</link>
+      <pubDate>Tue, 15 Jul 2014 01:59:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-15-the-easiest-way-to-create-a-solution-that-works/</guid>
+      <description>The easiest way to create a solution that works&amp;hellip;is to do it right the first time. Yes, this is a bit of a cop-out, but it turns out to be an important factor to keep in mind when you are tempted to come up with a quick and dirty solution for a problem that does not follow established best practices and is likely to have code quality issues later.
+I have run across many sections of code that I or other developers have written in the past that we thought were &amp;ldquo;good enough&amp;rdquo; at the time it was written, yet, I was revisiting the code because we discovered a bug in it.</description>
+    </item>
+    
+    <item>
+      <title>Performance Testing with Siege</title>
+      <link>https://thegeekspeaks.net/post/2014-07-14-performance-testing-with-siege/</link>
+      <pubDate>Mon, 14 Jul 2014 01:35:17 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-14-performance-testing-with-siege/</guid>
+      <description>One of the most important things to consider when evaluating a website is how well the site performs under load. For many eCommerce websites, there is a higher volume of traffic to the website on Cyber Monday, which is the Monday after Thanksgiving. One of the sites I work with typically sees traffic to its site quadruple on this one day of the year compared to the average traffic. However, when you anticipate something on your site making it to the front page of Digg or Slashdot, your site can easily see a jump of an order of magnitude (10X) or more.</description>
+    </item>
+    
+    <item>
+      <title>Estimating Software Development Projects is Hard</title>
+      <link>https://thegeekspeaks.net/post/2014-07-11-estimating-software-development-projects-is-hard/</link>
+      <pubDate>Fri, 11 Jul 2014 02:10:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-11-estimating-software-development-projects-is-hard/</guid>
+      <description>As a software developer, working with non-technical management and end users to define a deadline for when a project will be ready to use or how long it will take from start to end of a project is an extremely complex task. Unfortunately, the non-technical audience thinks that it should be simple to give some sort of estimation on the fly without detailed analysis of the project and what it involves, as it seems simple for them to estimate tasks that are like ones they have done before.</description>
+    </item>
+    
+    <item>
+      <title>Ignore Whitespace Not Available in BitBucket Pull Requests</title>
+      <link>https://thegeekspeaks.net/post/2014-07-10-ignore-whitespace-not-available-in-bitbucket-pull-requests/</link>
+      <pubDate>Thu, 10 Jul 2014 03:29:17 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-10-ignore-whitespace-not-available-in-bitbucket-pull-requests/</guid>
+      <description>When looking for an online location to use as the host for source code, many people by default look at GitHub, as it seems to be the most well-known option out there, and is free for open source projects. However, if you would like your source code to be kept private, or would rather use Mercurial instead of Git, GitHub may not be the place for you. Instead, I would suggest BitBucket as your source code repository provider.</description>
+    </item>
+    
+    <item>
+      <title>Always Use Automated Integration Testing</title>
+      <link>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</link>
+      <pubDate>Tue, 08 Jul 2014 02:34:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-08-always-use-automated-integration-testing/</guid>
+      <description>QA or Quality Assurance of a software project is often the area of software development that is most neglected. Typically developers avoid software testing like their lives depended on it. While a basic level of testing is required for a single scenario to validate that your code &amp;ldquo;works&amp;rdquo;, the level of testing that is required to ensure that all users have a good user experience across all targeted platforms is something that a developer seems to think is beneath them.</description>
+    </item>
+    
+    <item>
+      <title>AddThis Can Cause Your Site To Not Load</title>
+      <link>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</link>
+      <pubDate>Mon, 07 Jul 2014 01:38:09 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-07-addthis-can-cause-your-site-to-not-load/</guid>
+      <description>Over the last few days, I have run across quite a few websites that seem to never finish loading. After waiting for 20 seconds or more, I give up, realizing that whatever content was on the site wasn&amp;rsquo;t worth it anymore for me to stare at a blank white browser until it loaded however much longer. Unfortunately for those websites, they are losing traffic that they will never get back.</description>
+    </item>
+    
+    <item>
+      <title>== and === in JavaScript and HTML Input Elements</title>
+      <link>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</link>
+      <pubDate>Thu, 03 Jul 2014 03:39:21 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-07-03-and-in-javascript-and-html-input-elements/</guid>
+      <description>If you read any current information about best practices in JavaScript, you will typically find the following advice somewhere in the list of things to do.
+ Always use === and !== while avoiding == and !=
+ While I will never argue against this advice, there are a few things that a developer shoule realize when using === and !== instead of == and !=.
+ === and !== first do a check of the data type of the two objects you are comparing.</description>
+    </item>
+    
+    <item>
+      <title>Always URL Encode your Cookies</title>
+      <link>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</link>
+      <pubDate>Mon, 23 Jun 2014 01:47:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-23-always-url-encode-your-cookies/</guid>
+      <description>One of the things that you tend to forget about when dealing with websites that typically only cater to English-speaking visitors is how to properly deal with Unicode throughout the site. It turns out that some browsers handle Unicode support in different sections of the browser differently.
+For instance, it turns out that when you want to store Unicode data as the value in a cookie, your success may vary across browsers.</description>
+    </item>
+    
+    <item>
+      <title>Orphaned Attribute Data in Magento</title>
+      <link>https://thegeekspeaks.net/post/2014-06-18-orphaned-attribute-data-in-magento/</link>
+      <pubDate>Wed, 18 Jun 2014 01:34:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-18-orphaned-attribute-data-in-magento/</guid>
+      <description>Its always entertaining to look at the source of an application that originates from outside your organization. It frequently highlights ways of using technology I was not familiar with beforehand, and sometimes leaves me shaking my head in disgust. I initially started looking at a relatively new third-party module thinking that I would find some sort of major bug that was causing the issues the site was experiencing, but was surprised to find that was not the case.</description>
+    </item>
+    
+    <item>
+      <title>Code Style Guides - Consistency is King</title>
+      <link>https://thegeekspeaks.net/post/2014-06-12-code-style-guides-consistency-is-king/</link>
+      <pubDate>Thu, 12 Jun 2014 02:13:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-12-code-style-guides-consistency-is-king/</guid>
+      <description>There have been countless flame wars online about the details of the guidelines that appear in various Code Style Guides. Some of the most famous are the tabs versus spaces arguments, whether or not to put curly brackets {} each on their own line, whether you should even use the curly brackets {} for one line actions in if statements.
+I am here to say that the only thing that matters in the style of your source code, other than syntactically correct code, is consistency.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development Failure</title>
+      <link>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</link>
+      <pubDate>Wed, 11 Jun 2014 02:11:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-11-defensive-development-failure/</guid>
+      <description>In the past, I have argued that devensive development is a useful tool to ensure unexpected exceptions are not introduced into a piece of software as well as ensuring that the error conditions are handled in an appropriate manner. Unfortunately, if defensive development is implemented poorly, it achieves none of its goals and can cause errors and exceptions to occur. One example that I found while reviewing some code recently is below:</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Do SCRUM Poorly</title>
+      <link>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</link>
+      <pubDate>Tue, 10 Jun 2014 01:49:43 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-10-5-ways-to-do-scrum-poorly/</guid>
+      <description>As a developer that frequently leads projects and operates in various leadership roles depending on the current project lineup, the Agile development methodology is a welcome change from the Waterfall and Software Development Life Cycle approaches to software development. SCRUM is the specific type of Agile development that I have participated in at a few different workplaces, and it seems to work well if implemented properly. However, there are several ways to make a SCRUM development team perform more poorly than it ought.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways To Do Responsive Web Design Poorly</title>
+      <link>https://thegeekspeaks.net/post/2014-06-04-5-ways-to-do-responsive-web-design-poorly/</link>
+      <pubDate>Wed, 04 Jun 2014 01:06:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-04-5-ways-to-do-responsive-web-design-poorly/</guid>
+      <description>Responsive Web Design is a website design methodology that seeks to adapt the way a website is displayed depending on the capabilities of the device that is displaying the site. Frequently Responsive Web Design is used solely to adapt to the screen resolution of various devices, but it has other applications that are yet to have full browser support, such as delivering smaller graphics automatically for low-bandwidth connections, etc. As with everything, some people do it well, while others, well, they do it poorly.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Development - Fail Fast or Go Home</title>
+      <link>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</link>
+      <pubDate>Mon, 02 Jun 2014 02:07:32 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-06-02-defensive-development-fail-fast-or-go-home/</guid>
+      <description>Defensive Development is a programming practice that is frequently misunderstood, but is nevertheless a critical practice to follow when working in many environments. I have seen articles written that argue that defensive development simply causes nonsensical null checks to be written, and as a result of seeing people writing bad code defensively, argues that no one should practice defensive development. There are other articles that, like many things in software development, argue that you should always use defensive development for everything.</description>
+    </item>
+    
+    <item>
+      <title>Avoid SiteCatalyst&#39;s useForcedLinkTracking and target=&#34;_blank&#34;</title>
+      <link>https://thegeekspeaks.net/post/2014-05-23-avoid-sitecatalysts-useforcedlinktracking-and-target_blank/</link>
+      <pubDate>Fri, 23 May 2014 16:13:36 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-23-avoid-sitecatalysts-useforcedlinktracking-and-target_blank/</guid>
+      <description>All sites rely upon some third party analytics software to track at the very least the number of visitors to a site. Many sites use Google Analytics, which provide much more information that just the number of visitors. Another option that some of the bigger sites use is Adobe Analytics, aka SiteCatalyst to enable more custom tracking options that are not evident through the Google Analytics interface.
+One feature of SiteCatalyst is that it allows you to set an option useForcedLinkTracking that will track every link on your site for clicks whether or not you have setup custom tracking for the links or not.</description>
+    </item>
+    
+    <item>
+      <title>Window.Open Causes Browser Compatibilty Issues</title>
+      <link>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</link>
+      <pubDate>Wed, 21 May 2014 01:52:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-21-window-open-causes-browser-compatibilty-issues/</guid>
+      <description>One of the things that always annoys me as a web developer is when native browser functions that are accesible from JavaScript do not share the same function signature. One perfect example of this is the window.open function. When you are using non-Microsoft browsers such as Firefox and Chrome, you are able to make a call something like this window.open(url, &#39;window name&#39;, &#39;dimensions or other settings&#39;);. The window name parameter is important because it allows you to open multiple links in the same external window/tab.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Site Speed is a bit Unreliable</title>
+      <link>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</link>
+      <pubDate>Mon, 19 May 2014 14:21:29 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-19-google-analytics-site-speed-is-a-bit-unreliable/</guid>
+      <description>Google Analytics will now allow site owners to track the performance of their websites with real live traffic. This is a nice feature that lets you understand just how long it takes for the average visitor to your site to see the fully complete version of your website. While this sounds like a great tool that will give you an accurate view of yoru website&amp;rsquo;s performance, it does not tell the full story.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Images with Picturefill 2.0</title>
+      <link>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</link>
+      <pubDate>Wed, 14 May 2014 02:09:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-14-responsive-images-with-picturefill-2-0/</guid>
+      <description>Responsive Web Design seems to be the way that the majority of websites will be developed in the near future. For a while, everyone was creating a separate website that catered to mobile devices in addition to the main website that desktop browsers were able to access. Web Developers and UX Designers quickly discovered that this was a less than ideal approach as it required maintaining two separate websites, and the mobile website tended to remove data that was visible on the desktop version of the site.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Web Development Is the New Internet Explorer 6</title>
+      <link>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</link>
+      <pubDate>Mon, 12 May 2014 17:25:30 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-12-mobile-web-development-is-the-new-internet-explorer-6/</guid>
+      <description>Developing a website that works well across devices and browsers is an excersize in playing Whack-A-Mole. Once you get one browser working on a desktop browser, you go to the next browser and find that not everything works the same way. In 2014, it seems that there aren&amp;rsquo;t that many differences in functionality between desktop browsers, but that all changes once you start making a responsive website that must handle mobile devices as well as it does desktop browsers.</description>
+    </item>
+    
+    <item>
+      <title>Avoid SQL Deadlocks -- Break Up Large Updates</title>
+      <link>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</link>
+      <pubDate>Thu, 08 May 2014 02:19:46 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</guid>
+      <description>Deadlocks in SQL occur when one query locks certain rows, frequently for updates, and a second query tries to update those same rows. The second query will then create an error as those rows are unable to be updated since they are in the middle of an update from another query. One of the surefire ways to create a slow running update query like the first query above is to hava a single update statement that will update a large number of rows at once.</description>
+    </item>
+    
+    <item>
+      <title>Micromanagement Ruins Teams</title>
+      <link>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</link>
+      <pubDate>Wed, 07 May 2014 01:49:13 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-07-micromanagement-ruins-teams/</guid>
+      <description>It seems that the management thinking these days is that managers should empower their employees to make decisions and implement the actions behind these decisions. This works great when you have a team and management that has mutual trust with a mutual goal. However, when the manager does not trust the members of the team, or thinks that they have to be the one to make every decision or have input into every task, the empowerment disappears.</description>
+    </item>
+    
+    <item>
+      <title>Unintended Consequences with Magento Observers on Sales Orders</title>
+      <link>https://thegeekspeaks.net/post/2014-05-06-unintended-consequences-with-magento-observers-on-sales-orders/</link>
+      <pubDate>Tue, 06 May 2014 01:59:59 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-06-unintended-consequences-with-magento-observers-on-sales-orders/</guid>
+      <description>Anyone that uses Magento to place orders will be hard-pressed to consider this process a speedy one. While it takes a while to process the order under the best of circumstances, there are a few things that you can do that actually make it worse.
+One of those things that can make it worse is creating an observer that runs in the middle of the saving of the order processes that is always slow-running, or continues to get slower over time as the data that the Magento site grows.</description>
+    </item>
+    
+    <item>
+      <title>Magento Version 2, is it just Microsoft Windows Longhorn AKA Vista?</title>
+      <link>https://thegeekspeaks.net/post/2014-05-02-magento-version-2-is-it-just-microsoft-windows-longhorn-aka-vista/</link>
+      <pubDate>Fri, 02 May 2014 02:10:03 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-02-magento-version-2-is-it-just-microsoft-windows-longhorn-aka-vista/</guid>
+      <description>Magento version 2 was first introduced in 2010. It is now almost halfway through 2014, and the public has not seen any alpha or beta release of Magento version 2 as of yet. The new version of Magento promised to replace PrototypeJS and Scriptaculus with jQuery as well as reorganize the database schema to remove the slow EAV tables and migrate to a bit of a flatter table structure. However, it seems that the latest updates on the direction for Magento 2 show that the database schema will not be changed much after all.</description>
+    </item>
+    
+    <item>
+      <title>Why Use AddThis.com Sharing Buttons</title>
+      <link>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</link>
+      <pubDate>Thu, 01 May 2014 03:42:28 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-01-why-use-addthis-com-sharing-buttons/</guid>
+      <description>AddThis.com produces a bit of JavaScript that enables website owners to quickly and easily add social sharing buttons/links to their website. In addition to allowing users to easily share your content socially, they also provide analytics information about what content is shared via which method, giving a greater insight into visitor behavior.
+However, just because it provides these benefits to websites does not necessarily mean that it is a good tool to implement on your website.</description>
+    </item>
+    
+    <item>
+      <title>Always Namespace Variable Names in JavaScript</title>
+      <link>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</link>
+      <pubDate>Wed, 30 Apr 2014 01:59:49 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-30-always-namespace-variable-names-in-javascript/</guid>
+      <description>After running into a few issues with variable naming collisions over the past few days, it drives home how much we all should be namespacing our variable names in JavaScript. When writing JavaScript code that is only in use on your own website, you should still always namespace your variables. If you are writting a JavaScript library that will be in use on any website a user puts it on, namespacing your variable names is a minimum requirement.</description>
+    </item>
+    
+    <item>
+      <title>Avoid jQuery.bind()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</link>
+      <pubDate>Tue, 29 Apr 2014 03:58:31 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-29-avoid-jquery-bind/</guid>
+      <description>When chasing down performance issues, you never know what kind of problems you will find. I was looking for something that would cause jitter when scrolling on the page. After looking at the custom code that runs on every scroll event, I still had not found a reason for the jitter. Looking at the JavaScript CPU profile when scrolling in Chrome showed that there was an overwhelming majority of the time spent in a function in the Prototype JS library.</description>
+    </item>
+    
+    <item>
+      <title>Improve jQuery Performance With $().addClass()</title>
+      <link>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</link>
+      <pubDate>Mon, 28 Apr 2014 01:23:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-28-improve-jquery-performance-with-addclass/</guid>
+      <description>When looking at things that make a website seem sluggish, you might assume that the most popular JavaScript framework out there always does things in the most efficient manner. However, as I have found, jQuery does not always produce the best performance due to it having to support many different browsers with version 1.x. As a general rule, instead of setting CSS attributes directly on the selected nodes, I prefer to instead add and remove classes on those nodes instead, as it seems to perform much better.</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Website Load Time</title>
+      <link>https://thegeekspeaks.net/post/2014-04-25-optimizing-website-load-time/</link>
+      <pubDate>Fri, 25 Apr 2014 02:26:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-25-optimizing-website-load-time/</guid>
+      <description>Assuming you have already done a few things to improve the page load time of your website, such as using a Varnish caching server, GZipping your content in transit, minifying that same content, and turning on all caching options that Magento or your web platform of choice have available, there is still more you can do. When it comes to website performance, the 80/20 rule definitely applies. 80% of the performance tweaks that you perform will only provide a miniscule improvement to the site load time, while the 20% of things you do make a big difference.</description>
+    </item>
+    
+    <item>
+      <title>Optimize Magento Time To First Byte</title>
+      <link>https://thegeekspeaks.net/post/2014-04-24-optimize-magento-time-to-first-byte/</link>
+      <pubDate>Thu, 24 Apr 2014 00:41:34 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-24-optimize-magento-time-to-first-byte/</guid>
+      <description>When looking at the performance of your site, waterfall charts are one of the first places you should investigate. The first thing that is represented on these charts is that the HTML for the website is the first resource that is downloaded every time.
+As a result of being the first resource downloaded every time, this is the logical first place to look to improve the performance of your Magento website.</description>
+    </item>
+    
+    <item>
+      <title>Magento appending __SID to URLs</title>
+      <link>https://thegeekspeaks.net/post/2014-04-23-magento-appending-__sid-to-urls/</link>
+      <pubDate>Wed, 23 Apr 2014 02:39:33 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-23-magento-appending-__sid-to-urls/</guid>
+      <description>When trying to fully optimize a Magento website to run as fast as possible, I tend to opt for turning on all of the caching options in Magento, and then put the Varnish caching server in front of the web server with the Turpentine plugin. However, when you do this with some configurations, you start seeing the __SID query string parameter added to the end of the site&amp;rsquo;s url. Unfortunately, when the Turpentine plugin sees the __SID query string in the URL, it means that this page request will bypass the cache and load it directly from the server, slowing things down.</description>
+    </item>
+    
+    <item>
+      <title>Magento Adminhtml and Relative Links to Static Resources</title>
+      <link>https://thegeekspeaks.net/post/2014-04-18-magento-adminhtml-and-relative-links-to-static-resources/</link>
+      <pubDate>Fri, 18 Apr 2014 02:34:27 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-18-magento-adminhtml-and-relative-links-to-static-resources/</guid>
+      <description>Relative links in URLs allow you to only specify the path to an resource that is in the same or subfolder of the current folder. Lets say the current page you are on is http://example.com/test/ and you want to reference an image at http://example.com/test/image.jpg. You could put the full http://example.com/test/image.jpg in the src attribute of the img tag, or you could use just image.jpg instead. This works well when you are not sure what the directory path is the parent directory of your code.</description>
+    </item>
+    
+    <item>
+      <title>MySQL Deadlocks with Magento</title>
+      <link>https://thegeekspeaks.net/post/2014-04-17-mysql-deadlocks-with-magento/</link>
+      <pubDate>Thu, 17 Apr 2014 04:32:47 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-17-mysql-deadlocks-with-magento/</guid>
+      <description>One of the things that Magento, and specifically the Zend Framework provide developers is the ability to not have to think about database details as it should just handle all that for you. When it becomes obvious that there is a problem somehow with the production database getting some sort of SQL errors, its time for the developers to start caring about the implementation and architecture details of the database. ##Symptoms One of the indicators of upcoming troubles is that your admin users start to get error messages saying that there are deadlocks in the transactions.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Ways to Make a Developer Your Enemy</title>
+      <link>https://thegeekspeaks.net/post/2014-04-16-top-5-ways-to-make-a-developer-your-enemy/</link>
+      <pubDate>Wed, 16 Apr 2014 03:50:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-16-top-5-ways-to-make-a-developer-your-enemy/</guid>
+      <description>Developers are known to be some of the most finicky employees you will encounter in the workplace. However, this is a list of things that will annoy or infuriate developers and non-developers alike.
+ Have the IT Manager send an email to all staff saying that all computers will have a keylogger installed. &amp;ndash; This one is wrong on so many levels, the least of which is that it shows how little faith the company has in its employees and breeds mistrust of authority.</description>
+    </item>
+    
+    <item>
+      <title>Varnish and Magento Performance Mystery</title>
+      <link>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</link>
+      <pubDate>Mon, 14 Apr 2014 21:43:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</guid>
+      <description>One of the things that you think you will solve when you implement a Varnish caching server in front of a Magento website is performance problems. However, this is not necessarily the case.
+When I set Varnish up to cache content in front of my Magento website, I get what seems to be much improved performance. If I run a few tests in the developer tools of Chrome, it seems that the waterfall chart makes sense and the data is loaded appropriately and in a timely manner with the main HTML being downloaded in about 300ms.</description>
+    </item>
+    
+    <item>
+      <title>How Not to Use SQL Transactions</title>
+      <link>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</link>
+      <pubDate>Fri, 11 Apr 2014 02:20:17 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-11-how-not-to-use-sql-transactions/</guid>
+      <description>SQL Transactions allow you to isolate atomic operations so that you can ensure that a third party does not update the data affected during the atomic operation protected by the transaction. An example of an operation that you would want to protect with a SQL Transaction would be transferring funds from one bank account to another. The first step of this operation would be to subtract the funds from bank account A.</description>
+    </item>
+    
+    <item>
+      <title>Unexpected Results with SQL Server and Python pyodbc</title>
+      <link>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</link>
+      <pubDate>Thu, 10 Apr 2014 00:40:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-10-unexpected-results-with-sql-server-and-python-pyodbc/</guid>
+      <description>Using the Microsoft SQL Server Management Studio (SSMS) with SQL Server hides many of the API complications that can sometimes arise when working with SQL Server. One specific example would be when using Python on Windows with the pyodbc driver. If you have an update statement that performs a simple update to a status column and a datetime column, you can have some unexpected results.
+Lets say that the table you are running the update against has a before update trigger and an after update trigger configured on it.</description>
+    </item>
+    
+    <item>
+      <title>SQL Server Transaction Log Exponential Growth</title>
+      <link>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</link>
+      <pubDate>Wed, 09 Apr 2014 01:35:42 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-09-sql-server-transaction-log-exponential-growth/</guid>
+      <description>There are few things more frustrating than seemingly random issues that crop up in software when configuration changes occur. One such occurrence is when you migrate your databases from Microsoft SQL Server 2012 Standard Edition to Microsoft SQL Server 2012 Enterprise Edition with High Availability and the transaction log suddenly begins to experience exponential growth without ceasing.
+It turns out that when using Python and pyodbc on Windows to access SQL Server, there can be some unpredictable results.</description>
+    </item>
+    
+    <item>
+      <title>WordPress and the Genesis Framework</title>
+      <link>https://thegeekspeaks.net/post/2014-04-08-wordpress-and-the-genesis-framework/</link>
+      <pubDate>Tue, 08 Apr 2014 01:38:05 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-08-wordpress-and-the-genesis-framework/</guid>
+      <description>It turns out that working with WordPress and the Genesis Framework is quite a bit different than working with Magento or other blogging platforms. Ghost is a blogging platform that runs on NodeJs that utilizes Handlebars templates for the layout of the content on the website itself. Similarly, Magento uses its own templating system in .phtml files for laying out content on the screen. However, WordPress, and specifically the Genesis Framework have taken this simple templating concept and added quite a few layers of abstraction to come to the end result.</description>
+    </item>
+    
+    <item>
+      <title>Saving Products in Magento Deletes Tier Pricing</title>
+      <link>https://thegeekspeaks.net/post/2014-04-06-saving-products-in-magento-deletes-tier-pricing/</link>
+      <pubDate>Sun, 06 Apr 2014 21:06:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-06-saving-products-in-magento-deletes-tier-pricing/</guid>
+      <description>Magento&amp;rsquo;s framework makes many things simple to accomplish when working with the products and categories of your eCommerce website. However, I have found one scenario that doesn&amp;rsquo;t exactly work as expected. ##Tier Pricing in Magento Magento allows you to setup custom pricing levels based upon the quantity purchased. You set the minimum quantity purchased to enable the lower price when the part is added to the customer&amp;rsquo;s cart. You could see where losing the tiered pricing for an entire catalog of products would be a big deal for a site.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Best-Sellers Category with Magento</title>
+      <link>https://thegeekspeaks.net/post/2014-04-04-creating-a-best-sellers-category-with-magento/</link>
+      <pubDate>Fri, 04 Apr 2014 02:06:35 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-04-creating-a-best-sellers-category-with-magento/</guid>
+      <description>Magento allows you to organize products in categories, and a single product can be a member of quite a few separate categories. As a result, you can create a category that is specifically for your top selling products. You could manually keep track of which products sell the best, either by number of sales completed, or by the actual quantity of each product that were sold. If you want to spend all your time managing this category, then this is the way to go.</description>
+    </item>
+    
+    <item>
+      <title>Sticky Menus and Mega Drop Down Menus</title>
+      <link>https://thegeekspeaks.net/post/2014-04-03-sticky-menus-and-mega-drop-down-menus/</link>
+      <pubDate>Thu, 03 Apr 2014 01:50:50 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-03-sticky-menus-and-mega-drop-down-menus/</guid>
+      <description>There are time when UX best practices for the web don&amp;rsquo;t always provide the best experience for the users of a website. One example would be Sticky Menus and Mega Drop Down Menus.
+A Sticky Menu is a navigation bar that is stuck to the top of the screen when scrolling, usually with position:fixed;top:0; set on the menu itself. This ensures that no matter how far the user scrolls on the page, the site&amp;rsquo;s navigation is always available to the user without having to scroll to the top of the page.</description>
+    </item>
+    
+    <item>
+      <title>Can Legacy Internet Explorer Go Away Already?</title>
+      <link>https://thegeekspeaks.net/post/2014-04-02-can-legacy-internet-explorer-go-away-already/</link>
+      <pubDate>Wed, 02 Apr 2014 00:56:52 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-02-can-legacy-internet-explorer-go-away-already/</guid>
+      <description>For years, Internet Explorer was a four-letter word around web developers. Recently, Microsoft has stepped up their game when it comes to their web browser. I almost have to pinch myself to make sure I&amp;rsquo;m not dreaming when I type this, but Internet Explorer 10 and 11 are decent and modern web browsers that many websites don&amp;rsquo;t have to do anything special to support.
+However, Internet Explorer 9 and before are another story.</description>
+    </item>
+    
+    <item>
+      <title>Hover Effects in JavaScript?</title>
+      <link>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</link>
+      <pubDate>Tue, 01 Apr 2014 02:16:51 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-01-hover-effects-in-javascript/</guid>
+      <description>One of the things that can be annoying when looking at someone else&amp;rsquo;s code is when a more complex technology is used to solve a problem that can be handled more simply with another method.
+An example of this is when you utilize JavaScript to implement a hover effect on some elements. I know of one scenario when you would need JavaScript to trigger a hover effect, and that would be when you want to trigger the hover effect with a touch event.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Templating</title>
+      <link>https://thegeekspeaks.net/post/2014-03-31-javascript-templating/</link>
+      <pubDate>Mon, 31 Mar 2014 01:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-31-javascript-templating/</guid>
+      <description>Many times it becomes useful to be able to make an AJAX request for some data, insert it into some HTML that is already on the client, and then display it to the user. There are a few ways to implement this, each approach has its benefits and drawbacks.
+##String Concatenation
+Possibly the simplest way to accomplish the templating in JavaScript is to use simple string concatenation with &amp;lsquo;+&amp;rsquo;. This is the approach that I see many newcomers to JavaScript use in their code, as it is the simplest to implement.</description>
+    </item>
+    
+    <item>
+      <title>Login Problems with Magento and Varnish</title>
+      <link>https://thegeekspeaks.net/post/2014-03-30-login-problems-with-magento-and-varnish/</link>
+      <pubDate>Sun, 30 Mar 2014 02:30:43 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-30-login-problems-with-magento-and-varnish/</guid>
+      <description>When you have a Magento website configured to use Varnish as a caching frontend, there are certain scenarios where you may have some problems logging-in to the frontend of the website. It poses some unique problems that are not frequently seen on a typical website. This issue typically manifests itself to the end user by visiting the login page, entering the correct credential, submitting the form, and then the page reloads the login page again instead of redirecting to the My Account page or whatever page is specified in the configuration.</description>
+    </item>
+    
+    <item>
+      <title>301 Redirecting in Varnish</title>
+      <link>https://thegeekspeaks.net/post/2014-03-29-301-redirecting-in-varnish/</link>
+      <pubDate>Sat, 29 Mar 2014 02:42:50 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-29-301-redirecting-in-varnish/</guid>
+      <description>In Magento, you can set your secure and non-secure URLs explicitly. This works as expected in most cases, but can cause some issues when you have to specify full URLs or need to make any AJAX requests. When using the Nexcess Turpentine extension to enable Magento and Varnish to work together and you wish to only support traffic at www.example.com and not example.com, you would need to enable the setting in the Turpentine module to normalize the host.</description>
+    </item>
+    
+    <item>
+      <title>Launching a Redesign of a Website</title>
+      <link>https://thegeekspeaks.net/post/2014-03-28-launching-a-redesign-of-a-website/</link>
+      <pubDate>Fri, 28 Mar 2014 02:00:53 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-28-launching-a-redesign-of-a-website/</guid>
+      <description>Over the last few months, I have been working on a major redesign of an existing Magento website. One of the major goals of the redesign was to take a legacy desktop-only website and upgrade it to take full advantage of Responsive Web Design so that customers could equally utilize mobile and desktop devices to browse and purchase products.
+For a site that had seen only minor updates over the last 5 years, this redesign represented a major change visually and navigationally from the previous site.</description>
+    </item>
+    
+    <item>
+      <title>jQuery.hover Issues in Internet Explorer on Windows 7</title>
+      <link>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</link>
+      <pubDate>Thu, 27 Mar 2014 01:45:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-27-jquery-hover-issues-in-internet-explorer-on-windows-7/</guid>
+      <description>When creating a new mega-dropdown menu for a site I was working on, I used jQuery&amp;rsquo;s .hover event to trigger which content the menu was displayed. This seemed to work as expected in most browsers that I tested in, except for one, Internet Explorer. Unfortunately, it wasn&amp;rsquo;t even in every instance of Internet Explorer. ##Windows 7 After Windows Vista came out as one of the biggest duds that the world has ever seen, Windows 7 was a ringing success.</description>
+    </item>
+    
+    <item>
+      <title>Magento FrontName Naming and SSL/HTTPS</title>
+      <link>https://thegeekspeaks.net/post/2014-03-26-magento-frontname-naming-and-sslhttps/</link>
+      <pubDate>Wed, 26 Mar 2014 03:03:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-26-magento-frontname-naming-and-sslhttps/</guid>
+      <description>One of the things that has always been an issue for sites that are based on Magento is that they are slow. Well, to be fair, sites using Magento Enterprise Edition that take advantage of the built-in full-page caching functionality seem to have decent page load times. One way to take care of this slow load time issue is to utilize a third-party full-page caching solution such as what Varnish provides.</description>
+    </item>
+    
+    <item>
+      <title>Magento Cache with Cache Disabled</title>
+      <link>https://thegeekspeaks.net/post/2014-03-25-magento-cache-with-cache-disabled/</link>
+      <pubDate>Tue, 25 Mar 2014 02:02:20 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-25-magento-cache-with-cache-disabled/</guid>
+      <description>One of the things that I find quite annoying with a web platform is when you configure it to do one thing, and it does something different. Magento is an eCommerce software platform that many of the leading eCommerce websites use for their web stores. ##Magento Magento comes in two different flavors, a paid enterprise edition as well as a open-source community edition. The enterprise edition allows you to utilize the built-in full-page caching mechanism, while the community edition does not include a full-page caching solution.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to The Geek Speaks</title>
+      <link>https://thegeekspeaks.net/post/2014-03-24-welcome-to-the-geek-speaks/</link>
+      <pubDate>Mon, 24 Mar 2014 00:26:48 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-24-welcome-to-the-geek-speaks/</guid>
+      <description>Way back in August, 2012, Scott Hanselman had a great post about how our keystrokes are wasted by blogging/writing for another company or any locations where you don&amp;rsquo;t control your own content.
+All that time ago, that post inspired me to put more effort into writing on this blog, however, life got in the way, and I never really was able to get started blogging. Not to mention, that I really don&amp;rsquo;t like using WordPress for hosting my blog, as it seems to be quite the target hackers looking to hack into systems.</description>
+    </item>
+    
+  </channel>
+</rss>

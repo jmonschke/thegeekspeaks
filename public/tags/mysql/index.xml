@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mysql on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/mysql/</link>
+    <description>Recent content in mysql on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Oct 2014 12:34:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top 3 Reasons to Avoid Magento&#39;s getFirstItem()</title>
+      <link>https://thegeekspeaks.net/post/2014-10-31-top-3-reasons-to-avoid-magentos-getfirstitem/</link>
+      <pubDate>Fri, 31 Oct 2014 12:34:40 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-10-31-top-3-reasons-to-avoid-magentos-getfirstitem/</guid>
+      <description>Magento utilizes a lot of helper functions as well as the Zend Framework and ORM. While this makes things easier to develop, there are areas where this actually makes getting things done more difficult. The very first area that comes to mind is when you are trying to only retrieve a single record from the database. If you were to search Google for the proper way to do this, you would do the following, assuming $collection is your collection object.</description>
+    </item>
+    
+    <item>
+      <title>Avoid SQL Deadlocks -- Break Up Large Updates</title>
+      <link>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</link>
+      <pubDate>Thu, 08 May 2014 02:19:46 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-05-08-avoid-sql-deadlocks-break-up-large-updates/</guid>
+      <description>Deadlocks in SQL occur when one query locks certain rows, frequently for updates, and a second query tries to update those same rows. The second query will then create an error as those rows are unable to be updated since they are in the middle of an update from another query. One of the surefire ways to create a slow running update query like the first query above is to hava a single update statement that will update a large number of rows at once.</description>
+    </item>
+    
+    <item>
+      <title>MySQL Deadlocks with Magento</title>
+      <link>https://thegeekspeaks.net/post/2014-04-17-mysql-deadlocks-with-magento/</link>
+      <pubDate>Thu, 17 Apr 2014 04:32:47 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-17-mysql-deadlocks-with-magento/</guid>
+      <description>One of the things that Magento, and specifically the Zend Framework provide developers is the ability to not have to think about database details as it should just handle all that for you. When it becomes obvious that there is a problem somehow with the production database getting some sort of SQL errors, its time for the developers to start caring about the implementation and architecture details of the database. ##Symptoms One of the indicators of upcoming troubles is that your admin users start to get error messages saying that there are deadlocks in the transactions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magento 2 on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/magento-2/</link>
+    <description>Recent content in magento 2 on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2017 21:05:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/magento-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Should I Use Magento 2 Helpers?</title>
+      <link>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</link>
+      <pubDate>Mon, 06 Feb 2017 21:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-02-06-when-should-i-use-magento-2-helpers/</guid>
+      <description>One of the objects that developers familiar with Magento 1 will instantly recognize are helpers. When working with Magento 1, helpers proved to be a special type of object that looked similar in invocation to a singleton, but in reality it was more of a lazy way to share functionality between multiple locations. The main benefit to using a helper in Magento 1 is that it made it easier to access the __ function for translations and it was directly accessible from the template files .</description>
+    </item>
+    
+    <item>
+      <title>The Magento 2 Learning Curve</title>
+      <link>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</link>
+      <pubDate>Fri, 03 Feb 2017 21:05:23 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-02-03-the-magento-2-learning-curve/</guid>
+      <description>The learning curve for various products and platforms tends to vary greatly depending on the complexity of the system you are learning. For example, people that understand how to use the internet and communicate online via email or Facebook are generally able to figure out how to work with Twitter without much of an issue. On the other hand, when you are looking at the learning curve for designing airplanes that are able to carry people, it should be much more difficult to understand how to start as compared to starting to use Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>varnish on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/varnish/</link>
+    <description>Recent content in varnish on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jan 2015 02:45:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/varnish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avoid Custom mod_rewrite Rules with Varnish</title>
+      <link>https://thegeekspeaks.net/post/2015-01-06-avoid-custom-mod_rewrite-rules-with-varnish/</link>
+      <pubDate>Tue, 06 Jan 2015 02:45:59 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2015-01-06-avoid-custom-mod_rewrite-rules-with-varnish/</guid>
+      <description>When you are working on a website project running PHP on Apache, and you need to redirect a single device type to a different URL than the rest of your visitors, I&amp;rsquo;m sure the first thought that many of you would have is to utilize Apache&amp;rsquo;s mod_rewrite. It is a highly flexible URL rewriting engine that would allow you to rewrite with almost any combination of requirements to a just as complex set of URLs depending on the situation.</description>
+    </item>
+    
+    <item>
+      <title>Magento appending __SID to URLs</title>
+      <link>https://thegeekspeaks.net/post/2014-04-23-magento-appending-__sid-to-urls/</link>
+      <pubDate>Wed, 23 Apr 2014 02:39:33 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-23-magento-appending-__sid-to-urls/</guid>
+      <description>When trying to fully optimize a Magento website to run as fast as possible, I tend to opt for turning on all of the caching options in Magento, and then put the Varnish caching server in front of the web server with the Turpentine plugin. However, when you do this with some configurations, you start seeing the __SID query string parameter added to the end of the site&amp;rsquo;s url. Unfortunately, when the Turpentine plugin sees the __SID query string in the URL, it means that this page request will bypass the cache and load it directly from the server, slowing things down.</description>
+    </item>
+    
+    <item>
+      <title>Varnish and Magento Performance Mystery</title>
+      <link>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</link>
+      <pubDate>Mon, 14 Apr 2014 21:43:02 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-04-14-varnish-and-magento-performance-mystery/</guid>
+      <description>One of the things that you think you will solve when you implement a Varnish caching server in front of a Magento website is performance problems. However, this is not necessarily the case.
+When I set Varnish up to cache content in front of my Magento website, I get what seems to be much improved performance. If I run a few tests in the developer tools of Chrome, it seems that the waterfall chart makes sense and the data is loaded appropriately and in a timely manner with the main HTML being downloaded in about 300ms.</description>
+    </item>
+    
+    <item>
+      <title>Login Problems with Magento and Varnish</title>
+      <link>https://thegeekspeaks.net/post/2014-03-30-login-problems-with-magento-and-varnish/</link>
+      <pubDate>Sun, 30 Mar 2014 02:30:43 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-30-login-problems-with-magento-and-varnish/</guid>
+      <description>When you have a Magento website configured to use Varnish as a caching frontend, there are certain scenarios where you may have some problems logging-in to the frontend of the website. It poses some unique problems that are not frequently seen on a typical website. This issue typically manifests itself to the end user by visiting the login page, entering the correct credential, submitting the form, and then the page reloads the login page again instead of redirecting to the My Account page or whatever page is specified in the configuration.</description>
+    </item>
+    
+    <item>
+      <title>301 Redirecting in Varnish</title>
+      <link>https://thegeekspeaks.net/post/2014-03-29-301-redirecting-in-varnish/</link>
+      <pubDate>Sat, 29 Mar 2014 02:42:50 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-29-301-redirecting-in-varnish/</guid>
+      <description>In Magento, you can set your secure and non-secure URLs explicitly. This works as expected in most cases, but can cause some issues when you have to specify full URLs or need to make any AJAX requests. When using the Nexcess Turpentine extension to enable Magento and Varnish to work together and you wish to only support traffic at www.example.com and not example.com, you would need to enable the setting in the Turpentine module to normalize the host.</description>
+    </item>
+    
+    <item>
+      <title>Magento FrontName Naming and SSL/HTTPS</title>
+      <link>https://thegeekspeaks.net/post/2014-03-26-magento-frontname-naming-and-sslhttps/</link>
+      <pubDate>Wed, 26 Mar 2014 03:03:25 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2014-03-26-magento-frontname-naming-and-sslhttps/</guid>
+      <description>One of the things that has always been an issue for sites that are based on Magento is that they are slow. Well, to be fair, sites using Magento Enterprise Edition that take advantage of the built-in full-page caching functionality seem to have decent page load times. One way to take care of this slow load time issue is to utilize a third-party full-page caching solution such as what Varnish provides.</description>
+    </item>
+    
+  </channel>
+</rss>

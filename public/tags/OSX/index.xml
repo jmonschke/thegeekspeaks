@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSX on The Geek Speaks</title>
+    <link>https://thegeekspeaks.net/tags/OSX/</link>
+    <description>Recent content in OSX on The Geek Speaks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://thegeekspeaks.net/tags/OSX/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magento 2, Docker, and macOS don&#39;t mix</title>
+      <link>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://thegeekspeaks.net/post/2017-01-11-magento-2-docker-and-macos-dont-mix/</guid>
+      <description>I was excited when the Docker team launched their better-integrated solution for running Docker containers on OS X this past summer. It allowed our team to switch from using full Vagrant/Virtual Box based virtual machines for local development to a much lighter-weight solution. Compared to the Vagrant setup, Magento 1 seemed to run a bit faster and require fewer resources when running in Docker.
+However, when trying to setup a similar environment with Magento 2, the performance numbers didn&amp;rsquo;t quite line up when using a macOS host.</description>
+    </item>
+    
+  </channel>
+</rss>
